@@ -3474,7 +3474,37 @@
 7/27/2022, 2:02:24 PM - DEBUG - Getting Stations
 7/27/2022, 2:02:37 PM - DEBUG - Getting Stations
 7/27/2022, 2:02:37 PM - DEBUG - Getting Stations
+<<<<<<< HEAD
+7/27/2022, 4:01:32 PM - INFO - Server is running on port: 3030
+7/27/2022, 4:11:04 PM - INFO - Server is running on port: 3030
+7/27/2022, 4:11:49 PM - INFO - Server is running on port: 3030
+7/27/2022, 4:21:23 PM - INFO - Server is running on port: 3030
+7/27/2022, 6:17:14 PM - INFO - Server is running on port: 3030
+7/27/2022, 6:21:05 PM - INFO - Server is running on port: 3030
+7/27/2022, 6:36:45 PM - INFO - Server is running on port: 3030
+7/27/2022, 6:37:33 PM - DEBUG - Getting Stations
+7/27/2022, 6:37:33 PM - DEBUG - Getting Stations
+7/27/2022, 6:38:24 PM - DEBUG - Getting Stations
+7/27/2022, 6:38:24 PM - DEBUG - Getting Stations
+7/27/2022, 6:45:27 PM - DEBUG - Getting Stations
+7/27/2022, 6:45:27 PM - DEBUG - Getting Stations
+7/27/2022, 6:45:42 PM - DEBUG - Getting Stations
+7/27/2022, 6:45:42 PM - DEBUG - Getting Stations
+7/27/2022, 6:46:01 PM - DEBUG - Getting Stations
+7/27/2022, 6:46:01 PM - DEBUG - Getting Stations
+7/27/2022, 6:46:29 PM - DEBUG - Getting Stations
+7/27/2022, 6:46:29 PM - DEBUG - Getting Stations
+7/27/2022, 6:50:59 PM - INFO - Server is running on port: 3030
+7/27/2022, 6:51:20 PM - DEBUG - Getting Stations
+7/27/2022, 6:51:20 PM - DEBUG - Getting Stations
+7/27/2022, 6:52:13 PM - DEBUG - Getting Stations
+7/27/2022, 6:52:13 PM - DEBUG - Getting Stations
+7/27/2022, 6:52:26 PM - DEBUG - Getting Stations
+7/27/2022, 6:52:26 PM - DEBUG - Getting Stations
+7/27/2022, 6:55:01 PM - DEBUG - Getting Stations
+=======
 >>>>>>> fe608ef341a85166341e7015f1a8c41aa8609b3a
+<<<<<<< HEAD
 7/27/2022, 6:50:49 PM - DEBUG - auth.service - login with username: yoav
 7/27/2022, 6:50:49 PM - INFO - User login:  | {"_id":"62e137ec584b92df1fc51ec5","username":"yoav","fullname":"Yoav Mendelson","stations":["62e1431b584b92df1fc51ec7"],"likedSongs":"62e137ec584b92df1fc51ec4"}
 7/27/2022, 6:50:55 PM - DEBUG - Getting Stations
@@ -3517,3 +3547,99 @@
 7/27/2022, 7:33:02 PM - DEBUG - Getting Stations
 7/27/2022, 7:33:05 PM - DEBUG - auth.service - login with username: yoav
 7/27/2022, 7:33:05 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+=======
+>>>>>>> 30ed30b0d79f739ce961bb1d7c952afaaed71a5e
+7/27/2022, 6:55:40 PM - INFO - Server is running on port: 3030
+>>>>>>> c004179b4965cee9da0e2a9f97fcf1bb9d9c7400
+7/27/2022, 7:37:52 PM - INFO - Server is running on port: 3030
+7/27/2022, 7:37:55 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:37:57 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:38:00 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:38:00 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:38:03 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:38:03 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:39:04 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:39:04 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:39:17 PM - DEBUG - Getting Stations
+7/27/2022, 7:39:18 PM - DEBUG - Getting Stations
+7/27/2022, 7:39:53 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:39:53 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:40:21 PM - DEBUG - Getting Stations
+7/27/2022, 7:40:22 PM - DEBUG - Getting Stations
+7/27/2022, 7:40:24 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:40:24 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:41:10 PM - DEBUG - Getting Stations
+7/27/2022, 7:41:11 PM - DEBUG - Getting Stations
+7/27/2022, 7:42:25 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:42:25 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:43:22 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:43:22 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:47:03 PM - INFO - New connected socket [id: AQVWDbBspllfUZb4AAAB]
+7/27/2022, 7:47:03 PM - DEBUG - Getting Stations
+7/27/2022, 7:47:04 PM - INFO - New connected socket [id: 5XH7migiG6HrOPW_AAAD]
+7/27/2022, 7:47:04 PM - DEBUG - Getting Stations
+7/27/2022, 7:47:07 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:47:07 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:47:07 PM - INFO - Setting socket.userId = 62e16000a1b7e5b1b505a0cc for socket [id: AQVWDbBspllfUZb4AAAB]
+7/27/2022, 7:47:20 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:47:20 PM - DEBUG - Getting Stations
+7/27/2022, 7:47:20 PM - INFO - New connected socket [id: vuLalLF8-B2rITSpAAAF]
+7/27/2022, 7:47:34 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:47:35 PM - DEBUG - Getting Stations
+7/27/2022, 7:47:35 PM - INFO - New connected socket [id: 3vPcf3juULJ6c7OEAAAH]
+7/27/2022, 7:47:41 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:47:41 PM - DEBUG - Getting Stations
+7/27/2022, 7:47:41 PM - INFO - New connected socket [id: uecZH5p1VBuqq8eUAAAJ]
+7/27/2022, 7:48:01 PM - DEBUG - auth.service - login with username: afikzz
+7/27/2022, 7:48:02 PM - INFO - User login:  | {"_id":"62e12c169dcf5595f8e5d589","username":"afikzz","fullname":"afik zehavi","stations":["62e12f9f9dcf5595f8e5d58c","62e12cbd9dcf5595f8e5d58b","62e12c1f9dcf5595f8e5d58a"],"likedSongs":"62e12c169dcf5595f8e5d588"}
+7/27/2022, 7:48:02 PM - INFO - Setting socket.userId = 62e12c169dcf5595f8e5d589 for socket [id: uecZH5p1VBuqq8eUAAAJ]
+7/27/2022, 7:48:30 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:48:30 PM - INFO - New connected socket [id: 0BbCZ3tiuG4DfwRfAAAL]
+7/27/2022, 7:48:30 PM - DEBUG - Getting Stations
+7/27/2022, 7:48:41 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:48:41 PM - DEBUG - Getting Stations
+7/27/2022, 7:48:41 PM - INFO - New connected socket [id: OQBaZkmlJGLguk9vAAAN]
+7/27/2022, 7:49:09 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:49:09 PM - DEBUG - Getting Stations
+7/27/2022, 7:49:09 PM - INFO - New connected socket [id: C6mynqlpQe0rpK4eAAAP]
+7/27/2022, 7:49:11 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:49:11 PM - DEBUG - Getting Stations
+7/27/2022, 7:49:11 PM - INFO - New connected socket [id: mtB55Z61lrmC0FtCAAAR]
+7/27/2022, 7:49:19 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:49:20 PM - DEBUG - Getting Stations
+7/27/2022, 7:49:20 PM - INFO - New connected socket [id: UQdjzfmrr_sBym9TAAAT]
+7/27/2022, 7:49:27 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:49:27 PM - DEBUG - Getting Stations
+7/27/2022, 7:49:27 PM - INFO - New connected socket [id: 7sPp6o72Onsyq1kjAAAV]
+7/27/2022, 7:49:52 PM - DEBUG - auth.service - signup with username: hello, fullname: Hello Hello
+7/27/2022, 7:49:52 PM - DEBUG - auth.route - new account created: {"username":"hello","password":"$2b$10$3kYEjFw6YtRfe//o3IOS7enhR2.dF0iJgP.ShD.pjGyJmYd5ejt9i","fullname":"Hello Hello","stations":[],"likedSongs":"62e16cb07bbcf96a7a57a4ca","_id":"62e16cb07bbcf96a7a57a4cb"}
+7/27/2022, 7:49:52 PM - DEBUG - auth.service - login with username: hello
+7/27/2022, 7:49:52 PM - INFO - User login:  | {"_id":"62e16cb07bbcf96a7a57a4cb","username":"hello","fullname":"Hello Hello","stations":[],"likedSongs":"62e16cb07bbcf96a7a57a4ca"}
+7/27/2022, 7:49:52 PM - INFO - Setting socket.userId = 62e16cb07bbcf96a7a57a4cb for socket [id: 7sPp6o72Onsyq1kjAAAV]
+7/27/2022, 7:49:52 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 7:49:53 PM - INFO - New connected socket [id: yUlrGRwJSQHq19Y_AAAX]
+7/27/2022, 7:49:53 PM - DEBUG - Getting Stations
+7/27/2022, 7:50:01 PM - DEBUG - auth.service - login with username: hello
+7/27/2022, 7:50:01 PM - INFO - User login:  | {"_id":"62e16cb07bbcf96a7a57a4cb","username":"hello","fullname":"Hello Hello","stations":[],"likedSongs":"62e16cb07bbcf96a7a57a4ca"}
+7/27/2022, 7:50:01 PM - INFO - Setting socket.userId = 62e16cb07bbcf96a7a57a4cb for socket [id: yUlrGRwJSQHq19Y_AAAX]
+7/27/2022, 8:09:03 PM - DEBUG - Getting Stations
+7/27/2022, 8:11:49 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 8:11:49 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 8:11:49 PM - DEBUG - Getting Stations
+7/27/2022, 8:11:49 PM - INFO - New connected socket [id: xgA2S2fdULgiPLeRAAAa]
+7/27/2022, 8:11:49 PM - INFO - New connected socket [id: ksQO2Z3qfBg5gXWpAAAb]
+7/27/2022, 8:11:49 PM - DEBUG - Getting Stations
+7/27/2022, 8:14:09 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 8:14:09 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 8:14:10 PM - INFO - New connected socket [id: a4vAm93X2UVpw_ZoAAAe]
+7/27/2022, 8:14:10 PM - INFO - New connected socket [id: V3Cokgp1JzsbflKTAAAf]
+7/27/2022, 8:14:10 PM - DEBUG - Getting Stations
+7/27/2022, 8:14:10 PM - DEBUG - Getting Stations
+7/27/2022, 8:19:59 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 8:19:59 PM - INFO - Socket disconnected [id: undefined]
+7/27/2022, 8:19:59 PM - DEBUG - Getting Stations
+7/27/2022, 8:19:59 PM - INFO - New connected socket [id: 0U5UQfdeKrAd9-B1AAAi]
+7/27/2022, 8:19:59 PM - INFO - New connected socket [id: urYJvJ6mHm4Rtd2gAAAj]
+7/27/2022, 8:20:00 PM - DEBUG - Getting Stations
+7/27/2022, 8:21:31 PM - DEBUG - Getting Stations
+7/27/2022, 8:21:32 PM - DEBUG - Getting Stations
