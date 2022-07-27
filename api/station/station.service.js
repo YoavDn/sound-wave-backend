@@ -4,9 +4,9 @@ const ObjectId = require('mongodb').ObjectId
 
 async function query(demoStations = false) {
     try {
-        let collection
-        if (demoStations) collection = await dbService.getCollection('demoStation')
-        else collection = await dbService.getCollection('station')
+
+
+        const collection = await dbService.getCollection('station')
 
         var stations = await collection.find().toArray()
         return stations
