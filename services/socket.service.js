@@ -13,26 +13,18 @@ function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('chat-set-topic', topic => {
-            if (socket.myTopic === topic) return
-            if (socket.myTopic) {
-                socket.leave(socket.myTopic)
-                logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
+        socket.on('enter-station', stationId => {
+            if (socket.stationId === stationId) return
+            if (socket.stationId) {
+                socket.leave(socket.stationId)
+                logger.info(`Socket is leaving topic ${socket.stationId} [id: ${socket.stationId}]`)
             }
-            socket.join(topic)
-            socket.myTopic = topic
+            socket.stationId = stationId
+            socket.join(stationId)
+            console.log('user entered station!', stationId)
         })
-        socket.on('chat-send-msg', msg => {
-            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
-            // emits to all sockets:
-            // gIo.emit('chat addMsg', msg)
-            // emits only to sockets in the same room
-            gIo.to(socket.myTopic).emit('chat-add-msg', msg)
-        })
-        socket.on('user-watch', userId => {
-            logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
-            socket.join('watching:' + userId)
-            
+        socket.on('update-station', station => {
+            socket.broadcast.to(station._id).emit('station-updated', station)
         })
         socket.on('set-user-socket', userId => {
             logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
@@ -42,7 +34,6 @@ function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
-
     })
 }
 
