@@ -3475,3 +3475,45 @@
 7/27/2022, 2:02:37 PM - DEBUG - Getting Stations
 7/27/2022, 2:02:37 PM - DEBUG - Getting Stations
 >>>>>>> fe608ef341a85166341e7015f1a8c41aa8609b3a
+7/27/2022, 6:50:49 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 6:50:49 PM - INFO - User login:  | {"_id":"62e137ec584b92df1fc51ec5","username":"yoav","fullname":"Yoav Mendelson","stations":["62e1431b584b92df1fc51ec7"],"likedSongs":"62e137ec584b92df1fc51ec4"}
+7/27/2022, 6:50:55 PM - DEBUG - Getting Stations
+7/27/2022, 6:51:04 PM - DEBUG - Getting Stations
+7/27/2022, 6:51:08 PM - DEBUG - Getting Stations
+7/27/2022, 6:52:00 PM - DEBUG - Getting Stations
+7/27/2022, 6:52:34 PM - DEBUG - Getting Stations
+7/27/2022, 6:53:12 PM - DEBUG - Getting Stations
+7/27/2022, 6:55:44 PM - DEBUG - auth.service - signup with username: yoav, fullname: Yoav Mendelson
+7/27/2022, 6:55:44 PM - DEBUG - auth.route - new account created: {"username":"yoav","password":"$2b$10$EK5soeUjZPtYIc4z7uCf3uFZ4MoYuAMPx62WdBC79pvmOwWp26kK.","fullname":"Yoav Mendelson","stations":[],"likedSongs":"62e16000a1b7e5b1b505a0cb","_id":"62e16000a1b7e5b1b505a0cc"}
+7/27/2022, 6:55:44 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 6:55:44 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":[],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 6:55:44 PM - DEBUG - Getting Stations
+7/27/2022, 6:55:49 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 6:55:50 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":[],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 6:56:01 PM - DEBUG - Getting Stations
+7/27/2022, 6:56:22 PM - DEBUG - Getting Stations
+7/27/2022, 6:56:22 PM - DEBUG - Getting Stations
+7/27/2022, 6:56:50 PM - DEBUG - Getting Stations
+7/27/2022, 6:56:50 PM - DEBUG - Getting Stations
+7/27/2022, 6:57:52 PM - DEBUG - Getting Stations
+7/27/2022, 6:57:52 PM - DEBUG - Getting Stations
+7/27/2022, 6:59:03 PM - DEBUG - Getting Stations
+7/27/2022, 6:59:03 PM - DEBUG - Getting Stations
+7/27/2022, 7:00:22 PM - DEBUG - Getting Stations
+7/27/2022, 7:00:22 PM - DEBUG - Getting Stations
+7/27/2022, 7:05:37 PM - DEBUG - Getting Stations
+7/27/2022, 7:08:51 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:08:52 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:10:51 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:10:51 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
+7/27/2022, 7:12:07 PM - DEBUG - Getting Stations
+7/27/2022, 7:12:30 PM - DEBUG - Getting Stations
+7/27/2022, 7:18:22 PM - DEBUG - Getting Stations
+7/27/2022, 7:22:14 PM - DEBUG - Getting Stations
+7/27/2022, 7:29:46 PM - DEBUG - Getting Stations
+7/27/2022, 7:29:46 PM - DEBUG - Getting Stations
+7/27/2022, 7:30:58 PM - DEBUG - Getting Stations
+7/27/2022, 7:32:36 PM - DEBUG - Getting Stations
+7/27/2022, 7:33:02 PM - DEBUG - Getting Stations
+7/27/2022, 7:33:05 PM - DEBUG - auth.service - login with username: yoav
+7/27/2022, 7:33:05 PM - INFO - User login:  | {"_id":"62e16000a1b7e5b1b505a0cc","username":"yoav","fullname":"Yoav Mendelson","stations":["62e16011a1b7e5b1b505a0cd"],"likedSongs":"62e16000a1b7e5b1b505a0cb"}
