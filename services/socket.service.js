@@ -26,6 +26,15 @@ function setupSocketAPI(http) {
         socket.on('update-station', station => {
             socket.broadcast.to(station._id).emit('station-updated', station)
         })
+        socket.on('load-track', (track) => {
+            socket.broadcast.emit('load-track', track)
+        })
+        socket.on('track-playing', (track) => {
+            socket.broadcast.emit('load-track', track)
+        })
+        socket.on('track-pausing', (track) => {
+            socket.broadcast.emit('track-pausing', track)
+        })
         socket.on('set-user-socket', userId => {
             logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
             socket.userId = userId
