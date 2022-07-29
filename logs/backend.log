@@ -8356,3 +8356,26 @@
 7/29/2022, 11:23:40 PM - DEBUG - Getting Stations
 7/29/2022, 11:23:40 PM - INFO - New connected socket [id: ScUpJPrnJl4viOwBAAAD]
 7/29/2022, 11:23:41 PM - INFO - Setting socket.userId = null for socket [id: ScUpJPrnJl4viOwBAAAD]
+7/29/2022, 11:25:21 PM - INFO - Server is running on port: 3030
+7/29/2022, 11:25:22 PM - INFO - New connected socket [id: hQ59JJIAMkoF2y7NAAAB]
+7/29/2022, 11:25:30 PM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 11:25:30 PM - DEBUG - Getting Stations
+7/29/2022, 11:25:30 PM - INFO - New connected socket [id: 9vr5gLnVDU4ML849AAAD]
+7/29/2022, 11:25:30 PM - INFO - Setting socket.userId = null for socket [id: 9vr5gLnVDU4ML849AAAD]
+7/29/2022, 11:27:00 PM - INFO - Server is running on port: 3030
+7/29/2022, 11:27:04 PM - DEBUG - Getting Stations
+7/29/2022, 11:27:04 PM - INFO - New connected socket [id: M_AzKR6z8eUbwwogAAAB]
+7/29/2022, 11:27:05 PM - INFO - Setting socket.userId = null for socket [id: M_AzKR6z8eUbwwogAAAB]
+7/30/2022, 12:25:25 AM - INFO - Server is running on port: 3030
+7/30/2022, 12:25:26 AM - INFO - New connected socket [id: uNMOAAsnMcwon9aSAAAC]
+7/30/2022, 12:25:26 AM - INFO - New connected socket [id: BNzY0g0NawMteutmAAAD]
+7/30/2022, 12:25:26 AM - INFO - Setting socket.userId = null for socket [id: BNzY0g0NawMteutmAAAD]
+7/30/2022, 12:25:28 AM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 12:25:42 AM - DEBUG - Getting Stations
+7/30/2022, 12:25:43 AM - INFO - New connected socket [id: NGiXap9Vy0t5tBdlAAAF]
+7/30/2022, 12:25:43 AM - INFO - Setting socket.userId = null for socket [id: NGiXap9Vy0t5tBdlAAAF]
+7/30/2022, 12:33:20 AM - DEBUG - Getting Stations
+7/30/2022, 12:34:12 AM - INFO - Server is running on port: 3030
+7/30/2022, 12:34:12 AM - INFO - Server is running on port: 3030
+7/30/2022, 12:34:13 AM - INFO - New connected socket [id: HGkJu4tYgZ6U84aVAAAB]
+7/30/2022, 12:34:14 AM - INFO - New connected socket [id: rV5DFSilxo-_kkOaAAAD]
