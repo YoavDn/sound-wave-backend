@@ -8346,3 +8346,13 @@
 7/29/2022, 11:19:32 PM - DEBUG - Getting Stations
 7/29/2022, 11:19:32 PM - INFO - New connected socket [id: 0QbvrpQTzGBaZaFGAAAL]
 7/29/2022, 11:19:32 PM - INFO - Setting socket.userId = null for socket [id: 0QbvrpQTzGBaZaFGAAAL]
+7/29/2022, 11:23:07 PM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 11:23:08 PM - DEBUG - Getting Stations
+7/29/2022, 11:23:08 PM - INFO - New connected socket [id: Lrk12hGoWe7Om_MTAAAN]
+7/29/2022, 11:23:08 PM - INFO - Setting socket.userId = null for socket [id: Lrk12hGoWe7Om_MTAAAN]
+7/29/2022, 11:23:23 PM - INFO - Server is running on port: 3030
+7/29/2022, 11:23:24 PM - INFO - New connected socket [id: 1U_QF42hmIzrP3ZoAAAB]
+7/29/2022, 11:23:40 PM - INFO - Socket disconnected [id: undefined]
+7/29/2022, 11:23:40 PM - DEBUG - Getting Stations
+7/29/2022, 11:23:40 PM - INFO - New connected socket [id: ScUpJPrnJl4viOwBAAAD]
+7/29/2022, 11:23:41 PM - INFO - Setting socket.userId = null for socket [id: ScUpJPrnJl4viOwBAAAD]
