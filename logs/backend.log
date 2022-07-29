@@ -8379,3 +8379,32 @@
 7/30/2022, 12:34:12 AM - INFO - Server is running on port: 3030
 7/30/2022, 12:34:13 AM - INFO - New connected socket [id: HGkJu4tYgZ6U84aVAAAB]
 7/30/2022, 12:34:14 AM - INFO - New connected socket [id: rV5DFSilxo-_kkOaAAAD]
+7/30/2022, 12:40:28 AM - INFO - Server is running on port: 3030
+7/30/2022, 12:40:29 AM - INFO - New connected socket [id: RhnOXzUMg35-vB1AAAAB]
+7/30/2022, 12:40:30 AM - INFO - Setting socket.userId = null for socket [id: RhnOXzUMg35-vB1AAAAB]
+7/30/2022, 12:40:31 AM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 12:41:49 AM - DEBUG - Getting Stations
+7/30/2022, 12:41:50 AM - INFO - New connected socket [id: sKSaqxe7mmrSfFxgAAAD]
+7/30/2022, 12:41:50 AM - INFO - Setting socket.userId = null for socket [id: sKSaqxe7mmrSfFxgAAAD]
+7/30/2022, 12:53:31 AM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 12:53:48 AM - DEBUG - Getting Stations
+7/30/2022, 12:53:49 AM - INFO - New connected socket [id: aIMGM7SbMvHfwW1-AAAF]
+7/30/2022, 12:53:49 AM - INFO - Setting socket.userId = null for socket [id: aIMGM7SbMvHfwW1-AAAF]
+7/30/2022, 12:58:14 AM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 12:58:22 AM - DEBUG - Getting Stations
+7/30/2022, 12:58:23 AM - INFO - New connected socket [id: uK01bhDJbcA4_GADAAAH]
+7/30/2022, 12:58:24 AM - INFO - Setting socket.userId = null for socket [id: uK01bhDJbcA4_GADAAAH]
+7/30/2022, 1:17:00 AM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 1:17:10 AM - DEBUG - Getting Stations
+7/30/2022, 1:17:10 AM - INFO - New connected socket [id: F1pLlLaQTRr0rRTbAAAJ]
+7/30/2022, 1:17:11 AM - INFO - Setting socket.userId = null for socket [id: F1pLlLaQTRr0rRTbAAAJ]
+7/30/2022, 1:19:44 AM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 1:20:17 AM - DEBUG - Getting Stations
+7/30/2022, 1:20:17 AM - INFO - New connected socket [id: agyhVc93G_a2n-OXAAAL]
+7/30/2022, 1:20:18 AM - INFO - Setting socket.userId = null for socket [id: agyhVc93G_a2n-OXAAAL]
+7/30/2022, 1:21:03 AM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 1:21:12 AM - DEBUG - Getting Stations
+7/30/2022, 1:21:13 AM - INFO - New connected socket [id: NqW8gI-VYb6fnflkAAAN]
+7/30/2022, 1:21:14 AM - INFO - Setting socket.userId = null for socket [id: NqW8gI-VYb6fnflkAAAN]
+7/30/2022, 1:36:37 AM - INFO - Server is running on port: 3030
+7/30/2022, 1:36:38 AM - INFO - New connected socket [id: p3Xo0uWrjduCUIu_AAAB]
