@@ -8320,3 +8320,9 @@
 7/29/2022, 10:29:53 PM - INFO - Server is running on port: 3030
 7/29/2022, 10:33:44 PM - INFO - Server is running on port: 3030
 7/29/2022, 10:43:17 PM - INFO - Server is running on port: 3030
+7/29/2022, 10:56:10 PM - INFO - Server is running on port: 3030
+7/29/2022, 10:56:15 PM - DEBUG - Getting Stations
+7/29/2022, 10:57:26 PM - INFO - Server is running on port: 3030
+7/29/2022, 10:57:36 PM - DEBUG - Getting Stations
+7/29/2022, 10:57:36 PM - INFO - New connected socket [id: HSKS2DNGZRjOgpcfAAAB]
+7/29/2022, 10:57:36 PM - INFO - Setting socket.userId = null for socket [id: HSKS2DNGZRjOgpcfAAAB]
