@@ -8875,3 +8875,7 @@
 7/30/2022, 7:49:00 PM - DEBUG - auth.service - login with username: soundwave
 7/30/2022, 7:49:00 PM - INFO - User login:  | {"_id":"62e5543530f7945626c02719","username":"soundwave","fullname":"SoundWave","stations":["62e03b3ce6341e2b4e64e4f1","62e55a58385e954aef9b2cf4","62e5595b385e954aef9b2cf3","62e557bc30f7945626c0271b","62e5544f30f7945626c0271a"],"likedSongs":"62e5543530f7945626c02718"}
 7/30/2022, 7:49:01 PM - INFO - Setting socket.userId = null for socket [id: 5HknaklKv8mpd5ZKAAAT]
+7/30/2022, 7:49:47 PM - INFO - Server is running on port: 3030
+7/30/2022, 7:49:47 PM - INFO - Server is running on port: 3030
+7/30/2022, 7:49:48 PM - INFO - New connected socket [id: k02Cdm3vtroUL-GHAAAB]
+7/30/2022, 7:49:50 PM - INFO - New connected socket [id: ESD2olQojtfY-o3RAAAD]
