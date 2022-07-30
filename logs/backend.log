@@ -8923,3 +8923,29 @@
 7/30/2022, 8:10:02 PM - INFO - Server is running on port: 3030
 7/30/2022, 8:10:03 PM - INFO - New connected socket [id: GFgWpt0R3XEugNBnAAAB]
 7/30/2022, 8:10:04 PM - INFO - New connected socket [id: nwd8FpQ8dx5zYaefAAAD]
+7/30/2022, 8:28:05 PM - INFO - New connected socket [id: ljxzfz0cEHUh8QnBAAAF]
+7/30/2022, 8:28:05 PM - DEBUG - Getting Stations
+7/30/2022, 8:28:05 PM - INFO - Setting socket.userId = null for socket [id: ljxzfz0cEHUh8QnBAAAF]
+7/30/2022, 8:28:16 PM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 11:40:43 PM - INFO - Server is running on port: 3030
+7/30/2022, 11:40:48 PM - INFO - New connected socket [id: C728hDHn2TJiREWwAAAB]
+7/30/2022, 11:40:48 PM - INFO - Setting socket.userId = null for socket [id: C728hDHn2TJiREWwAAAB]
+7/30/2022, 11:40:48 PM - INFO - New connected socket [id: K_8U4QqkgSouS6u2AAAD]
+7/30/2022, 11:40:48 PM - INFO - Setting socket.userId = null for socket [id: K_8U4QqkgSouS6u2AAAD]
+7/30/2022, 11:40:51 PM - DEBUG - Getting Stations
+7/30/2022, 11:40:51 PM - INFO - New connected socket [id: QkpMKRsdxgWNis5kAAAF]
+7/30/2022, 11:40:52 PM - INFO - Setting socket.userId = null for socket [id: QkpMKRsdxgWNis5kAAAF]
+7/30/2022, 11:41:25 PM - INFO - Server is running on port: 3030
+7/30/2022, 11:41:26 PM - INFO - Server is running on port: 3030
+7/30/2022, 11:41:26 PM - INFO - New connected socket [id: 1TO5wct8It1UHBArAAAB]
+7/30/2022, 11:41:26 PM - INFO - New connected socket [id: 6YywO3nyIj29NYaIAAAD]
+7/30/2022, 11:41:28 PM - INFO - New connected socket [id: YZNuyYTWi3MZ9qrAAAAF]
+7/30/2022, 11:42:11 PM - INFO - Server is running on port: 3030
+7/30/2022, 11:42:12 PM - INFO - New connected socket [id: k8Vf-VXjmVjUa4ZGAAAB]
+7/30/2022, 11:42:12 PM - INFO - New connected socket [id: 2O3Zqyy8qB8G9_6vAAAD]
+7/30/2022, 11:42:13 PM - INFO - New connected socket [id: F2kEBD6WkOIudN8vAAAF]
+7/30/2022, 11:42:24 PM - INFO - Server is running on port: 3030
+7/30/2022, 11:42:24 PM - INFO - Server is running on port: 3030
+7/30/2022, 11:42:24 PM - INFO - New connected socket [id: 2rABIgHThWUWI-0OAAAB]
+7/30/2022, 11:42:25 PM - INFO - New connected socket [id: jXhMZ_LjSlyI22-GAAAD]
+7/30/2022, 11:42:26 PM - INFO - New connected socket [id: zGX1tS33YEtA6D-DAAAF]
