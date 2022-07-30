@@ -67,6 +67,7 @@ async function remove(userId) {
 async function update(user) {
     try {
         // peek only updatable fields!
+        console.log(user);
         const userToSave = {
             _id: ObjectId(user._id),
             username: user.username,
@@ -97,7 +98,7 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
-            stations: user.station || [],
+            stations: [],
             likedSongs: newLikedSongs.insertedId,
 
         }
