@@ -26,8 +26,8 @@ function setupSocketAPI(http) {
         socket.on('update-station', station => {
             socket.broadcast.to(station._id).emit('station-updated', station)
         })
-        socket.on('load-track', (track) => {
-            socket.broadcast.emit('load-track', { track, stationId })
+        socket.on('load-track', (track, station) => {
+            socket.broadcast.emit('load-track', { track, station })
         })
         socket.on('track-playing', (track) => {
             socket.broadcast.emit('load-track', track)
