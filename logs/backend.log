@@ -8721,3 +8721,22 @@
 7/30/2022, 3:36:20 PM - INFO - Server is running on port: 3030
 7/30/2022, 3:36:21 PM - INFO - New connected socket [id: lB3eqEsX6p4zP8cSAAAC]
 7/30/2022, 3:36:22 PM - INFO - New connected socket [id: iHXnsbNU1lUZxIRnAAAD]
+7/30/2022, 3:45:16 PM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 3:45:16 PM - DEBUG - Getting Stations
+7/30/2022, 3:45:16 PM - INFO - New connected socket [id: oXWl15BDs_7wYmo7AAAF]
+7/30/2022, 3:45:17 PM - INFO - Setting socket.userId = null for socket [id: oXWl15BDs_7wYmo7AAAF]
+7/30/2022, 3:45:25 PM - DEBUG - auth.service - login with username: yoav
+7/30/2022, 3:45:26 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e03b3ce6341e2b4e64e4f4","62e52520aec1381a390e664c","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5","62e42ae7f61d4f866077ddf0"],"likedSongs":"62e42657f61d4f866077ddea"}
+7/30/2022, 3:45:26 PM - INFO - Setting socket.userId = 62e42657f61d4f866077ddeb for socket [id: oXWl15BDs_7wYmo7AAAF]
+7/30/2022, 3:45:35 PM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 3:45:35 PM - DEBUG - Getting Stations
+7/30/2022, 3:45:35 PM - INFO - New connected socket [id: vuWLfeIb4NQ7dhJcAAAH]
+7/30/2022, 3:45:36 PM - INFO - Setting socket.userId = null for socket [id: vuWLfeIb4NQ7dhJcAAAH]
+7/30/2022, 3:45:48 PM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 3:45:54 PM - INFO - New connected socket [id: VfplNKLOuDZgRlGqAAAJ]
+7/30/2022, 3:45:55 PM - INFO - Setting socket.userId = null for socket [id: VfplNKLOuDZgRlGqAAAJ]
+7/30/2022, 3:45:59 PM - DEBUG - auth.service - login with username: yoav
+7/30/2022, 3:45:59 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e03b3ce6341e2b4e64e4f4","62e52520aec1381a390e664c","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5","62e42ae7f61d4f866077ddf0"],"likedSongs":"62e42657f61d4f866077ddea"}
+7/30/2022, 3:45:59 PM - INFO - Setting socket.userId = 62e42657f61d4f866077ddeb for socket [id: VfplNKLOuDZgRlGqAAAJ]
+7/30/2022, 3:49:05 PM - INFO - Server is running on port: 3030
+7/30/2022, 3:49:05 PM - INFO - New connected socket [id: bqnawj_6BSvTiG7KAAAB]
