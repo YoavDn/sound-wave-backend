@@ -8608,3 +8608,14 @@
 7/30/2022, 12:56:47 PM - INFO - Server is running on port: 3030
 7/30/2022, 12:56:48 PM - INFO - New connected socket [id: 7rxW7Wbd4bCs3yNcAAAB]
 7/30/2022, 12:56:50 PM - INFO - New connected socket [id: 3ze7WbtIxcvwVvfcAAAD]
+7/30/2022, 1:08:41 PM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 1:08:41 PM - DEBUG - Getting Stations
+7/30/2022, 1:08:41 PM - INFO - New connected socket [id: 7d4Wl3Ks1-WxZCoFAAAF]
+7/30/2022, 1:08:42 PM - INFO - Setting socket.userId = null for socket [id: 7d4Wl3Ks1-WxZCoFAAAF]
+7/30/2022, 1:09:33 PM - INFO - Socket disconnected [id: undefined]
+7/30/2022, 1:09:34 PM - DEBUG - Getting Stations
+7/30/2022, 1:09:35 PM - INFO - New connected socket [id: nYTiOiZvb2hK8DNeAAAH]
+7/30/2022, 1:09:35 PM - INFO - Setting socket.userId = null for socket [id: nYTiOiZvb2hK8DNeAAAH]
+7/30/2022, 1:10:01 PM - INFO - Server is running on port: 3030
+7/30/2022, 1:10:03 PM - INFO - New connected socket [id: IArj3J6jtl7EmDBzAAAC]
+7/30/2022, 1:10:03 PM - INFO - New connected socket [id: LxlQU8QtWdQPq_nZAAAD]
