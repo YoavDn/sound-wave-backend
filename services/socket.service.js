@@ -27,13 +27,17 @@ function setupSocketAPI(http) {
             socket.broadcast.emit('update-station', station)
         })
         socket.on('load-track', ({ track, station }) => {
+<<<<<<< HEAD
             socket.broadcast.emit('load-track', { track, station })
+=======
+            socket.broadcast.to(station._id).emit('load-track', { track, station })
+>>>>>>> 99ea5f59b7b20f161aca35ddb256831b3265f07c
         })
-        socket.on('track-playing', (track) => {
-            socket.broadcast.emit('track-playing', track)
+        socket.on('track-playing', ({track, station}) => {
+            socket.broadcast.to(station._id).emit('track-playing', track)
         })
-        socket.on('track-pausing', (track) => {
-            socket.broadcast.emit('track-pausing', track)
+        socket.on('track-pausing', ({track, station}) => {
+            socket.broadcast.to(station._id).emit('track-pausing', track)
         })
         socket.on('set-user-socket', userId => {
             logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
@@ -43,6 +47,7 @@ function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
+        
     })
 }
 
