@@ -24,16 +24,16 @@ function setupSocketAPI(http) {
             console.log('user entered station!', stationId)
         })
         socket.on('update-station', station => {
-            socket.broadcast.to(station._id).emit('station-updated', station)
+            socket.broadcast.emit('update-station', station)
         })
-        socket.on('load-track', ({track, station}) => {
-            socket.broadcast.emit('load-track', { track, station })
+        socket.on('load-track', ({ track, station }) => {
+            socket.broadcast.to(station._id).emit('load-track', { track, station })
         })
-        socket.on('track-playing', (track) => {
-            socket.broadcast.emit('track-playing', track)
+        socket.on('track-playing', ({track, station}) => {
+            socket.broadcast.to(station._id).emit('track-playing', track)
         })
-        socket.on('track-pausing', (track) => {
-            socket.broadcast.emit('track-pausing', track)
+        socket.on('track-pausing', ({track, station}) => {
+            socket.broadcast.to(station._id).emit('track-pausing', track)
         })
         socket.on('set-user-socket', userId => {
             logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
@@ -43,6 +43,7 @@ function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
+        
     })
 }
 
