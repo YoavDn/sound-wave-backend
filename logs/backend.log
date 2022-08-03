@@ -11933,3 +11933,12 @@
 8/3/2022, 10:03:08 AM - INFO - Setting socket.userId = null for socket [id: rJckGOsIR2yUsmIdAAAL]
 8/3/2022, 10:31:15 AM - INFO - Server is running on port: 3030
 8/3/2022, 10:31:17 AM - INFO - New connected socket [id: 7rlDbW7c9AO0wRXJAAAB]
+8/3/2022, 10:34:43 AM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 10:34:44 AM - DEBUG - Getting Stations
+8/3/2022, 10:34:44 AM - INFO - New connected socket [id: IaxOiN9hEd6j_kUoAAAD]
+8/3/2022, 10:34:44 AM - INFO - Setting socket.userId = null for socket [id: IaxOiN9hEd6j_kUoAAAD]
+8/3/2022, 10:45:59 AM - INFO - Server is running on port: 3030
+8/3/2022, 10:46:00 AM - INFO - New connected socket [id: Jbr9IN5K0P3oAzaZAAAB]
+8/3/2022, 10:46:05 AM - DEBUG - Getting Stations
+8/3/2022, 10:46:05 AM - INFO - New connected socket [id: M4Ma7Pk3agknC-v6AAAD]
+8/3/2022, 10:46:05 AM - INFO - Setting socket.userId = null for socket [id: M4Ma7Pk3agknC-v6AAAD]
