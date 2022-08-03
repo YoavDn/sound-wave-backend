@@ -46,7 +46,7 @@ async function getById(userId) {
 async function getByUsername(username) {
     try {
         const collection = await dbService.getCollection('user')
-        const user = await collection.findOne({ username })
+        const user = await collection.findOne({ $or: [{ username }, { email: username }] })
         return user
     } catch (err) {
         logger.error(`while finding user ${username}`, err)
@@ -96,6 +96,7 @@ async function add(user) {
         console.log(newLikedSongs);
         const userToAdd = {
             username: user.username,
+            email: user.email,
             password: user.password,
             fullname: user.fullname,
             stations: [],

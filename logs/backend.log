@@ -11354,3 +11354,554 @@
 8/1/2022, 12:24:38 PM - INFO - Server is running on port: 3030
 8/1/2022, 12:24:39 PM - INFO - New connected socket [id: tJ9U0qqhaEJhlYRYAAAC]
 8/1/2022, 12:24:39 PM - INFO - New connected socket [id: 1xBwQKPgV6eoNXkXAAAD]
+8/1/2022, 3:44:13 PM - INFO - Server is running on port: 3030
+8/1/2022, 3:44:14 PM - INFO - New connected socket [id: EOzoINdkGG0080sKAAAB]
+8/1/2022, 3:44:14 PM - INFO - Setting socket.userId = null for socket [id: EOzoINdkGG0080sKAAAB]
+8/1/2022, 3:44:16 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:44:16 PM - DEBUG - Getting Stations
+8/1/2022, 3:44:16 PM - INFO - New connected socket [id: LqM54NDxZlnzGN-EAAAD]
+8/1/2022, 3:44:17 PM - INFO - Setting socket.userId = null for socket [id: LqM54NDxZlnzGN-EAAAD]
+8/1/2022, 3:44:24 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:44:24 PM - DEBUG - Getting Stations
+8/1/2022, 3:44:24 PM - INFO - New connected socket [id: KbgnEx0-8x8KdD84AAAF]
+8/1/2022, 3:44:24 PM - INFO - Setting socket.userId = null for socket [id: KbgnEx0-8x8KdD84AAAF]
+8/1/2022, 3:44:25 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:44:25 PM - DEBUG - Getting Stations
+8/1/2022, 3:44:25 PM - INFO - New connected socket [id: KSLzUNrnj4BuIKgYAAAH]
+8/1/2022, 3:44:25 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:44:25 PM - DEBUG - Getting Stations
+8/1/2022, 3:44:25 PM - INFO - New connected socket [id: X9WrOYoDNF3SZXekAAAJ]
+8/1/2022, 3:44:26 PM - INFO - Setting socket.userId = null for socket [id: X9WrOYoDNF3SZXekAAAJ]
+8/1/2022, 3:44:37 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:44:37 PM - DEBUG - Getting Stations
+8/1/2022, 3:44:37 PM - INFO - New connected socket [id: ocIOImOfQHXsQ4Z8AAAL]
+8/1/2022, 3:44:37 PM - INFO - Setting socket.userId = null for socket [id: ocIOImOfQHXsQ4Z8AAAL]
+8/1/2022, 3:44:38 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:44:38 PM - DEBUG - Getting Stations
+8/1/2022, 3:44:38 PM - INFO - New connected socket [id: 0wPnz2Qw3zJAxLvKAAAN]
+8/1/2022, 3:44:38 PM - INFO - Setting socket.userId = null for socket [id: 0wPnz2Qw3zJAxLvKAAAN]
+8/1/2022, 3:44:43 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:44:43 PM - DEBUG - Getting Stations
+8/1/2022, 3:44:43 PM - INFO - New connected socket [id: 4mIN3nkpYSqvDeKYAAAP]
+8/1/2022, 3:44:44 PM - INFO - Setting socket.userId = null for socket [id: 4mIN3nkpYSqvDeKYAAAP]
+8/1/2022, 3:44:45 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:44:45 PM - DEBUG - Getting Stations
+8/1/2022, 3:44:45 PM - INFO - New connected socket [id: mslWJ0DXwclorE40AAAR]
+8/1/2022, 3:44:46 PM - INFO - Setting socket.userId = null for socket [id: mslWJ0DXwclorE40AAAR]
+8/1/2022, 3:44:51 PM - INFO - Server is running on port: 3030
+8/1/2022, 3:44:53 PM - INFO - New connected socket [id: YuANtA0DkY7VPr5uAAAB]
+8/1/2022, 3:44:57 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:44:57 PM - DEBUG - Getting Stations
+8/1/2022, 3:44:57 PM - INFO - New connected socket [id: adeLaUu2jKah_hegAAAD]
+8/1/2022, 3:44:58 PM - INFO - Setting socket.userId = null for socket [id: adeLaUu2jKah_hegAAAD]
+8/1/2022, 3:45:03 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:45:04 PM - DEBUG - Getting Stations
+8/1/2022, 3:45:04 PM - INFO - New connected socket [id: Rre6U3iIsKUc9TZvAAAF]
+8/1/2022, 3:45:04 PM - INFO - Setting socket.userId = null for socket [id: Rre6U3iIsKUc9TZvAAAF]
+8/1/2022, 3:45:08 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:45:08 PM - DEBUG - Getting Stations
+8/1/2022, 3:45:08 PM - INFO - New connected socket [id: bHVj-cgp3AY8AsBjAAAH]
+8/1/2022, 3:45:09 PM - INFO - Setting socket.userId = null for socket [id: bHVj-cgp3AY8AsBjAAAH]
+8/1/2022, 3:45:15 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:45:15 PM - DEBUG - Getting Stations
+8/1/2022, 3:45:15 PM - INFO - New connected socket [id: SD-ThJxV05Y4t7I1AAAJ]
+8/1/2022, 3:45:16 PM - INFO - Setting socket.userId = null for socket [id: SD-ThJxV05Y4t7I1AAAJ]
+8/1/2022, 3:45:17 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:45:17 PM - DEBUG - Getting Stations
+8/1/2022, 3:45:17 PM - INFO - New connected socket [id: 34MJHs9YsZSPyW1CAAAL]
+8/1/2022, 3:45:17 PM - INFO - Setting socket.userId = null for socket [id: 34MJHs9YsZSPyW1CAAAL]
+8/1/2022, 3:45:46 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:45:47 PM - DEBUG - Getting Stations
+8/1/2022, 3:45:47 PM - INFO - New connected socket [id: BmCKYWywURLvK6-zAAAN]
+8/1/2022, 3:45:47 PM - INFO - Setting socket.userId = null for socket [id: BmCKYWywURLvK6-zAAAN]
+8/1/2022, 3:45:48 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:45:48 PM - DEBUG - Getting Stations
+8/1/2022, 3:45:48 PM - INFO - New connected socket [id: llF2NxPhttAIR8qdAAAP]
+8/1/2022, 3:45:48 PM - INFO - Setting socket.userId = null for socket [id: llF2NxPhttAIR8qdAAAP]
+8/1/2022, 3:46:17 PM - INFO - Server is running on port: 3030
+8/1/2022, 3:46:18 PM - INFO - New connected socket [id: B4kXJqjx4cIMPLC-AAAB]
+8/1/2022, 3:46:22 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:46:22 PM - DEBUG - Getting Stations
+8/1/2022, 3:46:22 PM - INFO - New connected socket [id: 640tVtVf0cO-0t1nAAAD]
+8/1/2022, 3:46:23 PM - INFO - Setting socket.userId = null for socket [id: 640tVtVf0cO-0t1nAAAD]
+8/1/2022, 3:46:39 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:46:39 PM - DEBUG - Getting Stations
+8/1/2022, 3:46:39 PM - INFO - New connected socket [id: hPkTuc0MipfO6h6oAAAF]
+8/1/2022, 3:46:39 PM - INFO - Setting socket.userId = null for socket [id: hPkTuc0MipfO6h6oAAAF]
+8/1/2022, 3:46:40 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:46:40 PM - DEBUG - Getting Stations
+8/1/2022, 3:46:40 PM - INFO - New connected socket [id: H0u7D0efTy2n76hcAAAH]
+8/1/2022, 3:46:40 PM - INFO - Setting socket.userId = null for socket [id: H0u7D0efTy2n76hcAAAH]
+8/1/2022, 3:48:52 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:48:53 PM - DEBUG - Getting Stations
+8/1/2022, 3:48:53 PM - INFO - New connected socket [id: MeI3r_8TX_OpSuP7AAAJ]
+8/1/2022, 3:48:53 PM - DEBUG - Getting Stations
+8/1/2022, 3:48:53 PM - INFO - New connected socket [id: xYCATdRt9X2KDhqMAAAL]
+8/1/2022, 3:48:54 PM - INFO - Setting socket.userId = null for socket [id: xYCATdRt9X2KDhqMAAAL]
+8/1/2022, 3:48:55 PM - INFO - Setting socket.userId = null for socket [id: MeI3r_8TX_OpSuP7AAAJ]
+8/1/2022, 3:48:55 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:51:10 PM - INFO - Server is running on port: 3030
+8/1/2022, 3:51:13 PM - INFO - New connected socket [id: FTHJG9BSaZIv4Z10AAAB]
+8/1/2022, 3:51:13 PM - INFO - Setting socket.userId = null for socket [id: FTHJG9BSaZIv4Z10AAAB]
+8/1/2022, 3:51:16 PM - INFO - New connected socket [id: Yh20PjNAoK0ktC27AAAD]
+8/1/2022, 3:51:16 PM - INFO - Setting socket.userId = null for socket [id: Yh20PjNAoK0ktC27AAAD]
+8/1/2022, 3:51:18 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:51:19 PM - DEBUG - Getting Stations
+8/1/2022, 3:51:19 PM - INFO - New connected socket [id: bg3NpEzy0Mfo8we3AAAF]
+8/1/2022, 3:51:19 PM - INFO - Setting socket.userId = null for socket [id: bg3NpEzy0Mfo8we3AAAF]
+8/1/2022, 3:51:30 PM - DEBUG - Getting Stations
+8/1/2022, 3:51:30 PM - INFO - New connected socket [id: GNkVY_8hkqpOzhVuAAAH]
+8/1/2022, 3:51:31 PM - INFO - Setting socket.userId = null for socket [id: GNkVY_8hkqpOzhVuAAAH]
+8/1/2022, 3:51:44 PM - DEBUG - Getting Stations
+8/1/2022, 3:51:44 PM - DEBUG - Getting Stations
+8/1/2022, 3:51:47 PM - DEBUG - Getting Stations
+8/1/2022, 3:51:48 PM - DEBUG - Getting Stations
+8/1/2022, 3:51:51 PM - DEBUG - Getting Stations
+8/1/2022, 3:51:51 PM - DEBUG - Getting Stations
+8/1/2022, 3:53:37 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:53:37 PM - DEBUG - Getting Stations
+8/1/2022, 3:53:37 PM - INFO - New connected socket [id: UxgAcj-_KVvMIGg7AAAJ]
+8/1/2022, 3:53:37 PM - INFO - Setting socket.userId = null for socket [id: UxgAcj-_KVvMIGg7AAAJ]
+8/1/2022, 3:53:39 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:53:39 PM - DEBUG - Getting Stations
+8/1/2022, 3:53:39 PM - INFO - New connected socket [id: M1okNQqwTT-6WetBAAAL]
+8/1/2022, 3:53:40 PM - INFO - Setting socket.userId = null for socket [id: M1okNQqwTT-6WetBAAAL]
+8/1/2022, 3:53:53 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:53:53 PM - DEBUG - Getting Stations
+8/1/2022, 3:53:53 PM - INFO - New connected socket [id: usWbw7FsqwHobbOEAAAN]
+8/1/2022, 3:53:54 PM - INFO - Setting socket.userId = null for socket [id: usWbw7FsqwHobbOEAAAN]
+8/1/2022, 3:53:54 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:53:54 PM - DEBUG - Getting Stations
+8/1/2022, 3:53:54 PM - INFO - New connected socket [id: lqSMqsz7S9SBhJdGAAAP]
+8/1/2022, 3:53:55 PM - INFO - Setting socket.userId = null for socket [id: lqSMqsz7S9SBhJdGAAAP]
+8/1/2022, 3:54:04 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:54:05 PM - DEBUG - Getting Stations
+8/1/2022, 3:54:05 PM - INFO - New connected socket [id: UHmWDknIwzf2pxzMAAAR]
+8/1/2022, 3:54:05 PM - INFO - Setting socket.userId = null for socket [id: UHmWDknIwzf2pxzMAAAR]
+8/1/2022, 3:54:07 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 3:54:07 PM - DEBUG - Getting Stations
+8/1/2022, 3:54:07 PM - INFO - New connected socket [id: vj0vOk-Ch5m_Xsm2AAAT]
+8/1/2022, 3:54:07 PM - INFO - Setting socket.userId = null for socket [id: vj0vOk-Ch5m_Xsm2AAAT]
+8/1/2022, 3:54:49 PM - DEBUG - Getting Stations
+8/1/2022, 3:54:49 PM - DEBUG - Getting Stations
+8/1/2022, 3:54:58 PM - DEBUG - Getting Stations
+8/1/2022, 3:54:58 PM - DEBUG - Getting Stations
+8/1/2022, 3:55:10 PM - DEBUG - Getting Stations
+8/1/2022, 3:55:10 PM - DEBUG - Getting Stations
+8/1/2022, 3:55:45 PM - DEBUG - Getting Stations
+8/1/2022, 3:55:45 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:05 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 4:58:06 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:06 PM - INFO - New connected socket [id: oSNcRTFz5g3Xw_INAAAV]
+8/1/2022, 4:58:06 PM - INFO - Setting socket.userId = null for socket [id: oSNcRTFz5g3Xw_INAAAV]
+8/1/2022, 4:58:07 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 4:58:07 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:07 PM - INFO - New connected socket [id: nBV9DoKR7R09dMcuAAAX]
+8/1/2022, 4:58:08 PM - INFO - Setting socket.userId = null for socket [id: nBV9DoKR7R09dMcuAAAX]
+8/1/2022, 4:58:11 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:12 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:19 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:19 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:29 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:29 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:30 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:52 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 4:58:52 PM - DEBUG - Getting Stations
+8/1/2022, 4:58:52 PM - INFO - New connected socket [id: dWWfIXPuXarfdf91AAAZ]
+8/1/2022, 4:58:53 PM - INFO - Setting socket.userId = null for socket [id: dWWfIXPuXarfdf91AAAZ]
+8/1/2022, 5:05:46 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:21:22 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:21:44 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:21:45 PM - DEBUG - Getting Stations
+8/1/2022, 5:21:45 PM - INFO - New connected socket [id: Sk-HwYU5GKYI5aqCAAAb]
+8/1/2022, 5:21:45 PM - INFO - New connected socket [id: r_FPY4b2gidMQxX8AAAd]
+8/1/2022, 5:21:46 PM - DEBUG - Getting Stations
+8/1/2022, 5:21:46 PM - INFO - Setting socket.userId = null for socket [id: Sk-HwYU5GKYI5aqCAAAb]
+8/1/2022, 5:21:47 PM - INFO - Setting socket.userId = null for socket [id: r_FPY4b2gidMQxX8AAAd]
+8/1/2022, 5:25:38 PM - DEBUG - Getting Stations
+8/1/2022, 5:25:38 PM - DEBUG - Getting Stations
+8/1/2022, 5:25:41 PM - DEBUG - Getting Stations
+8/1/2022, 5:25:41 PM - DEBUG - Getting Stations
+8/1/2022, 5:26:11 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:26:11 PM - DEBUG - Getting Stations
+8/1/2022, 5:26:11 PM - INFO - New connected socket [id: _hPzkYfKCHaai7bhAAAf]
+8/1/2022, 5:26:11 PM - INFO - Setting socket.userId = null for socket [id: _hPzkYfKCHaai7bhAAAf]
+8/1/2022, 5:27:10 PM - INFO - Server is running on port: 3030
+8/1/2022, 5:27:11 PM - INFO - New connected socket [id: Cf8-0aySxO56IuMZAAAB]
+8/1/2022, 5:27:12 PM - INFO - New connected socket [id: Pp3ixnmQc4Ev_TBuAAAD]
+8/1/2022, 5:27:49 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:27:49 PM - DEBUG - Getting Stations
+8/1/2022, 5:27:49 PM - INFO - New connected socket [id: JjOHQjn4tCgef2_gAAAF]
+8/1/2022, 5:27:50 PM - INFO - Setting socket.userId = null for socket [id: JjOHQjn4tCgef2_gAAAF]
+8/1/2022, 5:27:51 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:27:51 PM - DEBUG - Getting Stations
+8/1/2022, 5:27:51 PM - INFO - New connected socket [id: ptZQlfQd6AwEzzpCAAAH]
+8/1/2022, 5:27:52 PM - INFO - Setting socket.userId = null for socket [id: ptZQlfQd6AwEzzpCAAAH]
+8/1/2022, 5:27:54 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:27:54 PM - DEBUG - Getting Stations
+8/1/2022, 5:27:54 PM - INFO - New connected socket [id: mSyBcyJoOxdrgz6VAAAJ]
+8/1/2022, 5:27:54 PM - INFO - Setting socket.userId = null for socket [id: mSyBcyJoOxdrgz6VAAAJ]
+8/1/2022, 5:27:55 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:27:55 PM - DEBUG - Getting Stations
+8/1/2022, 5:27:55 PM - INFO - New connected socket [id: y_JXFQfQPxqp0f4NAAAL]
+8/1/2022, 5:27:55 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:27:55 PM - DEBUG - Getting Stations
+8/1/2022, 5:27:55 PM - INFO - New connected socket [id: Qh8SbJzTLlHRvDGNAAAN]
+8/1/2022, 5:27:55 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:27:55 PM - DEBUG - Getting Stations
+8/1/2022, 5:27:55 PM - INFO - New connected socket [id: E83c-wBdIQMbMrfqAAAP]
+8/1/2022, 5:27:55 PM - INFO - Setting socket.userId = null for socket [id: E83c-wBdIQMbMrfqAAAP]
+8/1/2022, 5:27:57 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:27:57 PM - DEBUG - Getting Stations
+8/1/2022, 5:27:57 PM - INFO - New connected socket [id: AKYPjY7FjLcrYReIAAAR]
+8/1/2022, 5:27:58 PM - INFO - Setting socket.userId = null for socket [id: AKYPjY7FjLcrYReIAAAR]
+8/1/2022, 5:27:58 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:27:58 PM - DEBUG - Getting Stations
+8/1/2022, 5:27:58 PM - INFO - New connected socket [id: msJsXaTWlmkL9A89AAAT]
+8/1/2022, 5:27:58 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:27:58 PM - DEBUG - Getting Stations
+8/1/2022, 5:27:58 PM - INFO - New connected socket [id: 6zXEWfrDo2RVHDFKAAAV]
+8/1/2022, 5:27:58 PM - INFO - Setting socket.userId = null for socket [id: 6zXEWfrDo2RVHDFKAAAV]
+8/1/2022, 5:28:01 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:28:01 PM - DEBUG - Getting Stations
+8/1/2022, 5:28:01 PM - INFO - New connected socket [id: vYTcp4T7SftU0jIDAAAX]
+8/1/2022, 5:28:01 PM - INFO - Setting socket.userId = null for socket [id: vYTcp4T7SftU0jIDAAAX]
+8/1/2022, 5:28:05 PM - DEBUG - Getting Stations
+8/1/2022, 5:28:05 PM - DEBUG - Getting Stations
+8/1/2022, 5:28:18 PM - DEBUG - Getting Stations
+8/1/2022, 5:28:19 PM - DEBUG - Getting Stations
+8/1/2022, 5:29:08 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:29:08 PM - DEBUG - Getting Stations
+8/1/2022, 5:29:08 PM - INFO - New connected socket [id: j6o6W18Cs1u2dakzAAAZ]
+8/1/2022, 5:29:09 PM - INFO - Setting socket.userId = null for socket [id: j6o6W18Cs1u2dakzAAAZ]
+8/1/2022, 5:29:11 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:29:11 PM - DEBUG - Getting Stations
+8/1/2022, 5:29:11 PM - INFO - New connected socket [id: wScbyWSexaqjBdeVAAAb]
+8/1/2022, 5:29:11 PM - INFO - Setting socket.userId = null for socket [id: wScbyWSexaqjBdeVAAAb]
+8/1/2022, 5:29:13 PM - DEBUG - Getting Stations
+8/1/2022, 5:29:14 PM - DEBUG - Getting Stations
+8/1/2022, 5:32:36 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:32:36 PM - DEBUG - Getting Stations
+8/1/2022, 5:32:36 PM - INFO - New connected socket [id: eUw5Vad5ojZeaId5AAAd]
+8/1/2022, 5:32:37 PM - INFO - Setting socket.userId = null for socket [id: eUw5Vad5ojZeaId5AAAd]
+8/1/2022, 5:32:38 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:32:38 PM - DEBUG - Getting Stations
+8/1/2022, 5:32:38 PM - INFO - New connected socket [id: 9DAUM-KzndytblDWAAAf]
+8/1/2022, 5:32:39 PM - INFO - Setting socket.userId = null for socket [id: 9DAUM-KzndytblDWAAAf]
+8/1/2022, 5:32:43 PM - DEBUG - Getting Stations
+8/1/2022, 5:32:44 PM - DEBUG - Getting Stations
+8/1/2022, 5:34:30 PM - DEBUG - Getting Stations
+8/1/2022, 5:34:30 PM - DEBUG - Getting Stations
+8/1/2022, 5:35:18 PM - DEBUG - Getting Stations
+8/1/2022, 5:35:18 PM - DEBUG - Getting Stations
+8/1/2022, 5:35:45 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:35:45 PM - DEBUG - Getting Stations
+8/1/2022, 5:35:45 PM - INFO - New connected socket [id: SfQCD1eadFinmXv-AAAh]
+8/1/2022, 5:35:45 PM - INFO - Setting socket.userId = null for socket [id: SfQCD1eadFinmXv-AAAh]
+8/1/2022, 5:35:47 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:35:47 PM - DEBUG - Getting Stations
+8/1/2022, 5:35:47 PM - INFO - New connected socket [id: s7QwaFrMLiyZVApcAAAj]
+8/1/2022, 5:35:47 PM - INFO - Setting socket.userId = null for socket [id: s7QwaFrMLiyZVApcAAAj]
+8/1/2022, 5:35:52 PM - DEBUG - Getting Stations
+8/1/2022, 5:35:52 PM - DEBUG - Getting Stations
+8/1/2022, 5:38:14 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:38:14 PM - DEBUG - Getting Stations
+8/1/2022, 5:38:14 PM - INFO - New connected socket [id: W2j6kdrFyqULtV5wAAAl]
+8/1/2022, 5:38:15 PM - INFO - Setting socket.userId = null for socket [id: W2j6kdrFyqULtV5wAAAl]
+8/1/2022, 5:38:16 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:38:16 PM - DEBUG - Getting Stations
+8/1/2022, 5:38:16 PM - INFO - New connected socket [id: DF0ySN_9Wk8cfRElAAAn]
+8/1/2022, 5:38:17 PM - INFO - Setting socket.userId = null for socket [id: DF0ySN_9Wk8cfRElAAAn]
+8/1/2022, 5:38:21 PM - DEBUG - Getting Stations
+8/1/2022, 5:38:21 PM - DEBUG - Getting Stations
+8/1/2022, 5:38:29 PM - DEBUG - Getting Stations
+8/1/2022, 5:38:29 PM - DEBUG - Getting Stations
+8/1/2022, 5:39:33 PM - DEBUG - Getting Stations
+8/1/2022, 5:39:33 PM - DEBUG - Getting Stations
+8/1/2022, 5:40:23 PM - DEBUG - Getting Stations
+8/1/2022, 5:40:23 PM - DEBUG - Getting Stations
+8/1/2022, 5:40:47 PM - DEBUG - Getting Stations
+8/1/2022, 5:40:48 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:28 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:28 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:29 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:29 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:46 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:47 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:47 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:47 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:47 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:51 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:41:52 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:52 PM - INFO - New connected socket [id: x5h3OpRNhbSb_n57AAAp]
+8/1/2022, 5:41:52 PM - INFO - Setting socket.userId = null for socket [id: x5h3OpRNhbSb_n57AAAp]
+8/1/2022, 5:41:55 PM - DEBUG - Getting Stations
+8/1/2022, 5:41:55 PM - DEBUG - Getting Stations
+8/1/2022, 5:42:36 PM - DEBUG - Getting Stations
+8/1/2022, 5:42:37 PM - DEBUG - Getting Stations
+8/1/2022, 5:46:16 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:46:17 PM - DEBUG - Getting Stations
+8/1/2022, 5:46:17 PM - INFO - New connected socket [id: AU_AvOSWIpg2z7qDAAAr]
+8/1/2022, 5:46:17 PM - INFO - Setting socket.userId = null for socket [id: AU_AvOSWIpg2z7qDAAAr]
+8/1/2022, 5:46:49 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:46:49 PM - INFO - New connected socket [id: 2IWZR-dxlVI-VR6QAAAt]
+8/1/2022, 5:46:50 PM - INFO - Setting socket.userId = null for socket [id: 2IWZR-dxlVI-VR6QAAAt]
+8/1/2022, 5:46:54 PM - DEBUG - Getting Stations
+8/1/2022, 5:46:55 PM - DEBUG - Getting Stations
+8/1/2022, 5:46:55 PM - DEBUG - Getting Stations
+8/1/2022, 5:46:55 PM - DEBUG - Getting Stations
+8/1/2022, 5:46:56 PM - DEBUG - Getting Stations
+8/1/2022, 5:47:03 PM - DEBUG - Getting Stations
+8/1/2022, 5:47:04 PM - DEBUG - Getting Stations
+8/1/2022, 5:47:04 PM - DEBUG - Getting Stations
+8/1/2022, 5:47:04 PM - DEBUG - Getting Stations
+8/1/2022, 5:47:04 PM - DEBUG - Getting Stations
+8/1/2022, 5:47:34 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:47:35 PM - DEBUG - Getting Stations
+8/1/2022, 5:47:35 PM - INFO - New connected socket [id: Ahif8MX54RreZGCwAAAv]
+8/1/2022, 5:47:35 PM - INFO - Setting socket.userId = null for socket [id: Ahif8MX54RreZGCwAAAv]
+8/1/2022, 5:48:35 PM - DEBUG - Getting Stations
+8/1/2022, 5:48:36 PM - DEBUG - Getting Stations
+8/1/2022, 5:48:47 PM - DEBUG - Getting Stations
+8/1/2022, 5:48:48 PM - DEBUG - Getting Stations
+8/1/2022, 5:48:50 PM - DEBUG - Getting Stations
+8/1/2022, 5:48:51 PM - DEBUG - Getting Stations
+8/1/2022, 5:49:18 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:49:18 PM - DEBUG - Getting Stations
+8/1/2022, 5:49:18 PM - INFO - New connected socket [id: YyfYkHSe82bGbFJBAAAx]
+8/1/2022, 5:49:19 PM - INFO - Setting socket.userId = null for socket [id: YyfYkHSe82bGbFJBAAAx]
+8/1/2022, 5:49:22 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:49:22 PM - DEBUG - Getting Stations
+8/1/2022, 5:49:22 PM - INFO - New connected socket [id: aj0DpRtsstw3gWkVAAAz]
+8/1/2022, 5:49:22 PM - INFO - Setting socket.userId = null for socket [id: aj0DpRtsstw3gWkVAAAz]
+8/1/2022, 5:49:40 PM - DEBUG - Getting Stations
+8/1/2022, 5:49:41 PM - DEBUG - Getting Stations
+8/1/2022, 5:50:15 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:50:15 PM - INFO - New connected socket [id: NmSgljqmKHUYOElJAAA1]
+8/1/2022, 5:50:16 PM - INFO - Setting socket.userId = null for socket [id: NmSgljqmKHUYOElJAAA1]
+8/1/2022, 5:53:23 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:53:23 PM - DEBUG - Getting Stations
+8/1/2022, 5:53:23 PM - INFO - New connected socket [id: _W4sJxI2qRhOkcQ1AAA3]
+8/1/2022, 5:53:24 PM - INFO - Setting socket.userId = null for socket [id: _W4sJxI2qRhOkcQ1AAA3]
+8/1/2022, 5:54:15 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:54:15 PM - INFO - New connected socket [id: ncJYaNYGRdP8c01WAAA5]
+8/1/2022, 5:54:15 PM - INFO - Setting socket.userId = null for socket [id: ncJYaNYGRdP8c01WAAA5]
+8/1/2022, 5:54:18 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:54:18 PM - INFO - New connected socket [id: fmH-qCJFgV4oOf3CAAA7]
+8/1/2022, 5:54:19 PM - INFO - Setting socket.userId = null for socket [id: fmH-qCJFgV4oOf3CAAA7]
+8/1/2022, 5:56:49 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:56:49 PM - DEBUG - Getting Stations
+8/1/2022, 5:56:49 PM - INFO - New connected socket [id: n5a6caUugUcCvofzAAA9]
+8/1/2022, 5:56:50 PM - INFO - Setting socket.userId = null for socket [id: n5a6caUugUcCvofzAAA9]
+8/1/2022, 5:57:17 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 5:57:17 PM - DEBUG - Getting Stations
+8/1/2022, 5:57:17 PM - INFO - New connected socket [id: 3Lb2UTrZvI3Mb9l6AAA_]
+8/1/2022, 5:57:18 PM - INFO - Setting socket.userId = null for socket [id: 3Lb2UTrZvI3Mb9l6AAA_]
+8/1/2022, 6:06:25 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:06:25 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:06:26 PM - DEBUG - Getting Stations
+8/1/2022, 6:06:26 PM - INFO - New connected socket [id: bIgjDCw00jo48PPHAABC]
+8/1/2022, 6:06:26 PM - INFO - New connected socket [id: HIzc4R5sPl8GRfXjAABD]
+8/1/2022, 6:06:26 PM - DEBUG - Getting Stations
+8/1/2022, 6:06:26 PM - INFO - Setting socket.userId = null for socket [id: bIgjDCw00jo48PPHAABC]
+8/1/2022, 6:06:26 PM - INFO - Setting socket.userId = null for socket [id: HIzc4R5sPl8GRfXjAABD]
+8/1/2022, 6:14:47 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:14:47 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:14:47 PM - DEBUG - Getting Stations
+8/1/2022, 6:14:47 PM - INFO - New connected socket [id: fFAWv4Q4Ftzdb8nPAABF]
+8/1/2022, 6:14:47 PM - INFO - New connected socket [id: NNC89QcmxBEeORHfAABH]
+8/1/2022, 6:14:47 PM - DEBUG - Getting Stations
+8/1/2022, 6:14:47 PM - INFO - Setting socket.userId = null for socket [id: fFAWv4Q4Ftzdb8nPAABF]
+8/1/2022, 6:14:47 PM - INFO - Setting socket.userId = null for socket [id: NNC89QcmxBEeORHfAABH]
+8/1/2022, 6:25:27 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:25:27 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:25:28 PM - DEBUG - Getting Stations
+8/1/2022, 6:25:28 PM - INFO - New connected socket [id: _xV4eX-uk1u9GP4nAABK]
+8/1/2022, 6:25:28 PM - INFO - New connected socket [id: LRyvHC5naJZdP-qbAABL]
+8/1/2022, 6:25:28 PM - INFO - Setting socket.userId = null for socket [id: _xV4eX-uk1u9GP4nAABK]
+8/1/2022, 6:25:28 PM - INFO - Setting socket.userId = null for socket [id: LRyvHC5naJZdP-qbAABL]
+8/1/2022, 6:25:29 PM - DEBUG - Getting Stations
+8/1/2022, 6:35:12 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:35:12 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:35:12 PM - DEBUG - Getting Stations
+8/1/2022, 6:35:12 PM - INFO - New connected socket [id: jkSdPRvugOSCjPHlAABO]
+8/1/2022, 6:35:12 PM - INFO - New connected socket [id: x2ItnS506MDY6sGXAABP]
+8/1/2022, 6:35:13 PM - INFO - Setting socket.userId = null for socket [id: jkSdPRvugOSCjPHlAABO]
+8/1/2022, 6:35:13 PM - INFO - Setting socket.userId = null for socket [id: x2ItnS506MDY6sGXAABP]
+8/1/2022, 6:35:13 PM - DEBUG - Getting Stations
+8/1/2022, 6:43:52 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:43:52 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:43:53 PM - DEBUG - Getting Stations
+8/1/2022, 6:43:53 PM - INFO - New connected socket [id: _CkqTTlfGZ_rlT1WAABS]
+8/1/2022, 6:43:53 PM - INFO - New connected socket [id: n3AyKDasuXz1u2mlAABT]
+8/1/2022, 6:43:53 PM - INFO - Setting socket.userId = null for socket [id: _CkqTTlfGZ_rlT1WAABS]
+8/1/2022, 6:43:53 PM - DEBUG - Getting Stations
+8/1/2022, 6:43:53 PM - INFO - Setting socket.userId = null for socket [id: n3AyKDasuXz1u2mlAABT]
+8/1/2022, 6:52:26 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:52:26 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 6:52:26 PM - DEBUG - Getting Stations
+8/1/2022, 6:52:26 PM - INFO - New connected socket [id: 8-4Rvy8fX9YctusLAABW]
+8/1/2022, 6:52:26 PM - INFO - New connected socket [id: Tak16PNC9AgesxHRAABX]
+8/1/2022, 6:52:27 PM - INFO - Setting socket.userId = null for socket [id: 8-4Rvy8fX9YctusLAABW]
+8/1/2022, 6:52:27 PM - INFO - Setting socket.userId = null for socket [id: Tak16PNC9AgesxHRAABX]
+8/1/2022, 6:52:27 PM - DEBUG - Getting Stations
+8/1/2022, 7:00:46 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:00:46 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:00:46 PM - DEBUG - Getting Stations
+8/1/2022, 7:00:46 PM - INFO - New connected socket [id: QBs5jjVTypHl_2cjAABa]
+8/1/2022, 7:00:46 PM - INFO - New connected socket [id: 6rYIEGlRosPb7x59AABb]
+8/1/2022, 7:00:47 PM - INFO - Setting socket.userId = null for socket [id: QBs5jjVTypHl_2cjAABa]
+8/1/2022, 7:00:47 PM - INFO - Setting socket.userId = null for socket [id: 6rYIEGlRosPb7x59AABb]
+8/1/2022, 7:00:47 PM - DEBUG - Getting Stations
+8/1/2022, 7:09:09 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:09:09 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:09:09 PM - DEBUG - Getting Stations
+8/1/2022, 7:09:09 PM - INFO - New connected socket [id: 3AEgznMYzGrVlvFAAABd]
+8/1/2022, 7:09:09 PM - INFO - New connected socket [id: gprQdlICsNd-rG3sAABf]
+8/1/2022, 7:09:09 PM - INFO - Setting socket.userId = null for socket [id: 3AEgznMYzGrVlvFAAABd]
+8/1/2022, 7:09:09 PM - INFO - Setting socket.userId = null for socket [id: gprQdlICsNd-rG3sAABf]
+8/1/2022, 7:09:10 PM - DEBUG - Getting Stations
+8/1/2022, 7:21:16 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:21:16 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:21:16 PM - DEBUG - Getting Stations
+8/1/2022, 7:21:16 PM - INFO - New connected socket [id: aN7VbzjEoR2Po5N4AABi]
+8/1/2022, 7:21:16 PM - INFO - New connected socket [id: -b-6YWYP-T7ubSKdAABj]
+8/1/2022, 7:21:16 PM - INFO - Setting socket.userId = null for socket [id: aN7VbzjEoR2Po5N4AABi]
+8/1/2022, 7:21:16 PM - INFO - Setting socket.userId = null for socket [id: -b-6YWYP-T7ubSKdAABj]
+8/1/2022, 7:21:17 PM - DEBUG - Getting Stations
+8/1/2022, 7:30:25 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:30:25 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:30:25 PM - DEBUG - Getting Stations
+8/1/2022, 7:30:25 PM - INFO - New connected socket [id: xc767CFBNXCcmcJzAABm]
+8/1/2022, 7:30:25 PM - INFO - New connected socket [id: CxBoTcGPG8Pqs0jBAABn]
+8/1/2022, 7:30:25 PM - INFO - Setting socket.userId = null for socket [id: xc767CFBNXCcmcJzAABm]
+8/1/2022, 7:30:25 PM - INFO - Setting socket.userId = null for socket [id: CxBoTcGPG8Pqs0jBAABn]
+8/1/2022, 7:30:26 PM - DEBUG - Getting Stations
+8/1/2022, 7:41:55 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:41:55 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:41:55 PM - DEBUG - Getting Stations
+8/1/2022, 7:41:55 PM - INFO - New connected socket [id: Wq52K9KzNxMnlatXAABq]
+8/1/2022, 7:41:55 PM - INFO - New connected socket [id: jD5_-5PWtJCBwoGmAABr]
+8/1/2022, 7:41:56 PM - INFO - Setting socket.userId = null for socket [id: Wq52K9KzNxMnlatXAABq]
+8/1/2022, 7:41:56 PM - INFO - Setting socket.userId = null for socket [id: jD5_-5PWtJCBwoGmAABr]
+8/1/2022, 7:41:56 PM - DEBUG - Getting Stations
+8/1/2022, 7:50:35 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:50:35 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:50:35 PM - DEBUG - Getting Stations
+8/1/2022, 7:50:35 PM - INFO - New connected socket [id: mF44yD9Kh7bXhh7WAABt]
+8/1/2022, 7:50:35 PM - INFO - New connected socket [id: 92AdDRsuBUcMI7G8AABv]
+8/1/2022, 7:50:35 PM - DEBUG - Getting Stations
+8/1/2022, 7:50:35 PM - INFO - Setting socket.userId = null for socket [id: mF44yD9Kh7bXhh7WAABt]
+8/1/2022, 7:50:35 PM - INFO - Setting socket.userId = null for socket [id: 92AdDRsuBUcMI7G8AABv]
+8/1/2022, 7:58:57 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:58:57 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 7:58:57 PM - DEBUG - Getting Stations
+8/1/2022, 7:58:57 PM - INFO - New connected socket [id: MXdGDi6qRtkB96GQAABx]
+8/1/2022, 7:58:57 PM - INFO - New connected socket [id: pbGwXO0zdkjkAazCAABz]
+8/1/2022, 7:58:58 PM - DEBUG - Getting Stations
+8/1/2022, 7:58:58 PM - INFO - Setting socket.userId = null for socket [id: MXdGDi6qRtkB96GQAABx]
+8/1/2022, 7:58:58 PM - INFO - Setting socket.userId = null for socket [id: pbGwXO0zdkjkAazCAABz]
+8/1/2022, 8:07:36 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 8:07:36 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 8:07:36 PM - DEBUG - Getting Stations
+8/1/2022, 8:07:36 PM - INFO - New connected socket [id: me-7i3nQs8sLcuKwAAB2]
+8/1/2022, 8:07:36 PM - INFO - New connected socket [id: FVpjcHUJW53DlfeJAAB3]
+8/1/2022, 8:07:36 PM - DEBUG - Getting Stations
+8/1/2022, 8:07:37 PM - INFO - Setting socket.userId = null for socket [id: me-7i3nQs8sLcuKwAAB2]
+8/1/2022, 8:07:37 PM - INFO - Setting socket.userId = null for socket [id: FVpjcHUJW53DlfeJAAB3]
+8/1/2022, 8:16:02 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 8:16:02 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 8:16:02 PM - DEBUG - Getting Stations
+8/1/2022, 8:16:02 PM - INFO - New connected socket [id: xMNisewgkWNmSH_LAAB6]
+8/1/2022, 8:16:03 PM - INFO - New connected socket [id: S-F2M1D12HFIMMVmAAB7]
+8/1/2022, 8:16:03 PM - DEBUG - Getting Stations
+8/1/2022, 8:16:04 PM - INFO - Setting socket.userId = null for socket [id: S-F2M1D12HFIMMVmAAB7]
+8/1/2022, 8:16:04 PM - INFO - Setting socket.userId = null for socket [id: xMNisewgkWNmSH_LAAB6]
+8/1/2022, 8:33:33 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 8:33:33 PM - INFO - Socket disconnected [id: undefined]
+8/1/2022, 8:33:34 PM - INFO - New connected socket [id: Yd0lDH9-N9Ll_0DZAAB9]
+8/1/2022, 8:33:36 PM - INFO - New connected socket [id: v_4mf7yWlTL9M8h0AAB_]
+8/3/2022, 9:15:59 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:16:04 AM - DEBUG - Getting Stations
+8/3/2022, 9:16:04 AM - INFO - New connected socket [id: aFAtAhcJNDeh66lkAAAB]
+8/3/2022, 9:16:05 AM - INFO - Setting socket.userId = null for socket [id: aFAtAhcJNDeh66lkAAAB]
+8/3/2022, 9:17:47 AM - DEBUG - auth.service - login with username: soundwave
+8/3/2022, 9:17:47 AM - INFO - User login:  | {"_id":"62e5543530f7945626c02719","username":"soundwave","fullname":"SoundWave","stations":["62e253fa182a33ed054ba9fb","62e92df851c1ef91491f7bc7","62e03b3ce6341e2b4e64e4f4","62e66210bb6c22b1ce9491e5","62e65ffdbb6c22b1ce9491e4","62e5618685df289a23be3e30","62e03b3ce6341e2b4e64e4f1","62e55a58385e954aef9b2cf4","62e5595b385e954aef9b2cf3","62e557bc30f7945626c0271b","62e5544f30f7945626c0271a"],"likedSongs":"62e5543530f7945626c02718"}
+8/3/2022, 9:17:47 AM - INFO - Setting socket.userId = 62e5543530f7945626c02719 for socket [id: aFAtAhcJNDeh66lkAAAB]
+8/3/2022, 9:23:10 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:23:10 AM - INFO - New connected socket [id: 2E3260OQRj4uUtC7AAAB]
+8/3/2022, 9:24:33 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:24:34 AM - INFO - New connected socket [id: WpJAABAYxs1nIe23AAAB]
+8/3/2022, 9:27:07 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:27:08 AM - INFO - New connected socket [id: dS5SqshqJmEb2uCVAAAB]
+8/3/2022, 9:27:51 AM - DEBUG - auth.service - signup with username: YoavDn, fullname: Yoav Mendelson
+8/3/2022, 9:27:53 AM - DEBUG - auth.route - new account created: {"username":"YoavDn","password":"$2b$10$pe4KZSy0oHRAX4N5IyUSEOC5xOW6ihFNsWPRr5GO/6kCy1ba9zkyG","fullname":"Yoav Mendelson","stations":[],"likedSongs":"62ea1568499266173c53cced","_id":"62ea1568499266173c53ccee"}
+8/3/2022, 9:27:53 AM - DEBUG - auth.service - login with username: YoavDn
+8/3/2022, 9:27:53 AM - INFO - User login:  | {"_id":"62e3fd9b6ec05f3118a67064","username":"aviyaXO","fullname":"Aviya Uzan","stations":["62e41dd5c9ea7812fbcc952e","62e24db3f95aeed6e2137a59","62e41daac9ea7812fbcc952d","62e41b58c9ea7812fbcc952c","62e03b3ce6341e2b4e64e4ec","62e41760c9ea7812fbcc952b","62e03b3ce6341e2b4e64e4ed"],"likedSongs":"62e3fd9b6ec05f3118a67063"}
+8/3/2022, 9:27:53 AM - INFO - Setting socket.userId = 62e3fd9b6ec05f3118a67064 for socket [id: dS5SqshqJmEb2uCVAAAB]
+8/3/2022, 9:27:53 AM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:27:53 AM - DEBUG - Getting Stations
+8/3/2022, 9:27:53 AM - INFO - New connected socket [id: oP5Y4QGf9jkoy3PEAAAD]
+8/3/2022, 9:27:53 AM - INFO - Setting socket.userId = null for socket [id: oP5Y4QGf9jkoy3PEAAAD]
+8/3/2022, 9:28:21 AM - DEBUG - auth.service - login with username: yoavdan999@gmail.com
+8/3/2022, 9:28:22 AM - INFO - User login:  | {"_id":"62e3fd9b6ec05f3118a67064","username":"aviyaXO","fullname":"Aviya Uzan","stations":["62e41dd5c9ea7812fbcc952e","62e24db3f95aeed6e2137a59","62e41daac9ea7812fbcc952d","62e41b58c9ea7812fbcc952c","62e03b3ce6341e2b4e64e4ec","62e41760c9ea7812fbcc952b","62e03b3ce6341e2b4e64e4ed"],"likedSongs":"62e3fd9b6ec05f3118a67063"}
+8/3/2022, 9:28:22 AM - INFO - Setting socket.userId = 62e3fd9b6ec05f3118a67064 for socket [id: oP5Y4QGf9jkoy3PEAAAD]
+8/3/2022, 9:28:41 AM - DEBUG - auth.service - login with username: yoavdan999@gmail.com
+8/3/2022, 9:28:41 AM - INFO - User login:  | {"_id":"62e3fd9b6ec05f3118a67064","username":"aviyaXO","fullname":"Aviya Uzan","stations":["62e41dd5c9ea7812fbcc952e","62e24db3f95aeed6e2137a59","62e41daac9ea7812fbcc952d","62e41b58c9ea7812fbcc952c","62e03b3ce6341e2b4e64e4ec","62e41760c9ea7812fbcc952b","62e03b3ce6341e2b4e64e4ed"],"likedSongs":"62e3fd9b6ec05f3118a67063"}
+8/3/2022, 9:28:41 AM - INFO - Setting socket.userId = 62e3fd9b6ec05f3118a67064 for socket [id: oP5Y4QGf9jkoy3PEAAAD]
+8/3/2022, 9:29:25 AM - DEBUG - auth.service - signup with username: yoavDn, fullname: Yoav Mendelson
+8/3/2022, 9:29:26 AM - DEBUG - auth.route - new account created: {"username":"yoavDn","password":"$2b$10$JEVayl3dEUkiMJjdG8e/1.nITPWPMg/p2kdMq2dAJaTWQASg32uRW","fullname":"Yoav Mendelson","stations":[],"likedSongs":"62ea15c5499266173c53ccef","_id":"62ea15c5499266173c53ccf0"}
+8/3/2022, 9:29:26 AM - DEBUG - auth.service - login with username: yoavDn
+8/3/2022, 9:29:26 AM - INFO - User login:  | {"_id":"62e3fd9b6ec05f3118a67064","username":"aviyaXO","fullname":"Aviya Uzan","stations":["62e41dd5c9ea7812fbcc952e","62e24db3f95aeed6e2137a59","62e41daac9ea7812fbcc952d","62e41b58c9ea7812fbcc952c","62e03b3ce6341e2b4e64e4ec","62e41760c9ea7812fbcc952b","62e03b3ce6341e2b4e64e4ed"],"likedSongs":"62e3fd9b6ec05f3118a67063"}
+8/3/2022, 9:29:26 AM - INFO - Setting socket.userId = 62e3fd9b6ec05f3118a67064 for socket [id: oP5Y4QGf9jkoy3PEAAAD]
+8/3/2022, 9:29:26 AM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:29:26 AM - DEBUG - Getting Stations
+8/3/2022, 9:29:26 AM - INFO - New connected socket [id: nI0X2U5MzJJhq6B5AAAF]
+8/3/2022, 9:29:26 AM - INFO - Setting socket.userId = null for socket [id: nI0X2U5MzJJhq6B5AAAF]
+8/3/2022, 9:29:33 AM - DEBUG - auth.service - login with username: yoavdan.m@gmail.com
+8/3/2022, 9:29:34 AM - INFO - User login:  | {"_id":"62e3fd9b6ec05f3118a67064","username":"aviyaXO","fullname":"Aviya Uzan","stations":["62e41dd5c9ea7812fbcc952e","62e24db3f95aeed6e2137a59","62e41daac9ea7812fbcc952d","62e41b58c9ea7812fbcc952c","62e03b3ce6341e2b4e64e4ec","62e41760c9ea7812fbcc952b","62e03b3ce6341e2b4e64e4ed"],"likedSongs":"62e3fd9b6ec05f3118a67063"}
+8/3/2022, 9:29:34 AM - INFO - Setting socket.userId = 62e3fd9b6ec05f3118a67064 for socket [id: nI0X2U5MzJJhq6B5AAAF]
+8/3/2022, 9:30:04 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:30:05 AM - INFO - New connected socket [id: SOLHzS38lixu7rtmAAAB]
+8/3/2022, 9:30:26 AM - DEBUG - auth.service - login with username: yoavdan.m@gmail.com
+8/3/2022, 9:30:27 AM - INFO - User login:  | {"_id":"62e3fd9b6ec05f3118a67064","username":"aviyaXO","fullname":"Aviya Uzan","stations":["62e41dd5c9ea7812fbcc952e","62e24db3f95aeed6e2137a59","62e41daac9ea7812fbcc952d","62e41b58c9ea7812fbcc952c","62e03b3ce6341e2b4e64e4ec","62e41760c9ea7812fbcc952b","62e03b3ce6341e2b4e64e4ed"],"likedSongs":"62e3fd9b6ec05f3118a67063"}
+8/3/2022, 9:30:27 AM - INFO - Setting socket.userId = 62e3fd9b6ec05f3118a67064 for socket [id: SOLHzS38lixu7rtmAAAB]
+8/3/2022, 9:30:45 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:30:46 AM - INFO - New connected socket [id: QE8VVi6KPTYSQyDAAAAB]
+8/3/2022, 9:31:04 AM - DEBUG - auth.service - login with username: yoavdan.m@gmail.com
+8/3/2022, 9:31:06 AM - INFO - User login:  | {"_id":"62e3fd9b6ec05f3118a67064","username":"aviyaXO","fullname":"Aviya Uzan","stations":["62e41dd5c9ea7812fbcc952e","62e24db3f95aeed6e2137a59","62e41daac9ea7812fbcc952d","62e41b58c9ea7812fbcc952c","62e03b3ce6341e2b4e64e4ec","62e41760c9ea7812fbcc952b","62e03b3ce6341e2b4e64e4ed"],"likedSongs":"62e3fd9b6ec05f3118a67063"}
+8/3/2022, 9:31:06 AM - INFO - Setting socket.userId = 62e3fd9b6ec05f3118a67064 for socket [id: QE8VVi6KPTYSQyDAAAAB]
+8/3/2022, 9:31:38 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:31:39 AM - INFO - New connected socket [id: 1tX-wBZxmJm-zFRkAAAB]
+8/3/2022, 9:31:56 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:31:58 AM - INFO - New connected socket [id: REQaJpY0SUBHxPhJAAAB]
+8/3/2022, 9:32:08 AM - DEBUG - auth.service - login with username: yoavdan.m@gmail.com
+8/3/2022, 9:32:09 AM - INFO - User login:  | {"_id":"62e3fd9b6ec05f3118a67064","username":"aviyaXO","fullname":"Aviya Uzan","stations":["62e41dd5c9ea7812fbcc952e","62e24db3f95aeed6e2137a59","62e41daac9ea7812fbcc952d","62e41b58c9ea7812fbcc952c","62e03b3ce6341e2b4e64e4ec","62e41760c9ea7812fbcc952b","62e03b3ce6341e2b4e64e4ed"],"likedSongs":"62e3fd9b6ec05f3118a67063"}
+8/3/2022, 9:32:09 AM - INFO - Setting socket.userId = 62e3fd9b6ec05f3118a67064 for socket [id: REQaJpY0SUBHxPhJAAAB]
+8/3/2022, 9:34:22 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:34:23 AM - INFO - New connected socket [id: faNbP2HyoI-yeDa8AAAB]
+8/3/2022, 9:35:50 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:35:51 AM - INFO - New connected socket [id: 1ROR8LNNwaVq4huOAAAB]
+8/3/2022, 9:36:12 AM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:36:12 AM - DEBUG - Getting Stations
+8/3/2022, 9:36:12 AM - INFO - New connected socket [id: pDiVa3Zij0HeN8ecAAAD]
+8/3/2022, 9:36:12 AM - INFO - Setting socket.userId = null for socket [id: pDiVa3Zij0HeN8ecAAAD]
+8/3/2022, 9:36:39 AM - DEBUG - auth.service - signup with username: yoavDn, fullname: Yoav Mendelson
+8/3/2022, 9:36:39 AM - DEBUG - auth.route - new account created: {"username":"yoavDn","email":"yoavdan.m@gmail.com","password":"$2b$10$DpssYuChdv5h1mq/NaC4wOnouN7/7L/KwqvvmyC81FUyyJN6w.UrS","fullname":"Yoav Mendelson","stations":[],"likedSongs":"62ea17772009819e15e21834","_id":"62ea17772009819e15e21835"}
+8/3/2022, 9:36:39 AM - DEBUG - auth.service - login with username: yoavDn
+8/3/2022, 9:36:39 AM - INFO - User login:  | {"_id":"62e3fd9b6ec05f3118a67064","username":"aviyaXO","fullname":"Aviya Uzan","stations":["62e41dd5c9ea7812fbcc952e","62e24db3f95aeed6e2137a59","62e41daac9ea7812fbcc952d","62e41b58c9ea7812fbcc952c","62e03b3ce6341e2b4e64e4ec","62e41760c9ea7812fbcc952b","62e03b3ce6341e2b4e64e4ed"],"likedSongs":"62e3fd9b6ec05f3118a67063"}
+8/3/2022, 9:36:39 AM - INFO - Setting socket.userId = 62e3fd9b6ec05f3118a67064 for socket [id: pDiVa3Zij0HeN8ecAAAD]
+8/3/2022, 9:36:39 AM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:36:39 AM - DEBUG - Getting Stations
+8/3/2022, 9:36:39 AM - INFO - New connected socket [id: QrbvlNKHuf-RdFDGAAAF]
+8/3/2022, 9:36:40 AM - INFO - Setting socket.userId = null for socket [id: QrbvlNKHuf-RdFDGAAAF]
+8/3/2022, 9:36:50 AM - DEBUG - auth.service - login with username: yoavdan.m@gmail.com
+8/3/2022, 9:36:50 AM - INFO - User login:  | {"_id":"62e3fd9b6ec05f3118a67064","username":"aviyaXO","fullname":"Aviya Uzan","stations":["62e41dd5c9ea7812fbcc952e","62e24db3f95aeed6e2137a59","62e41daac9ea7812fbcc952d","62e41b58c9ea7812fbcc952c","62e03b3ce6341e2b4e64e4ec","62e41760c9ea7812fbcc952b","62e03b3ce6341e2b4e64e4ed"],"likedSongs":"62e3fd9b6ec05f3118a67063"}
+8/3/2022, 9:36:50 AM - INFO - Setting socket.userId = 62e3fd9b6ec05f3118a67064 for socket [id: QrbvlNKHuf-RdFDGAAAF]
+8/3/2022, 9:37:41 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:37:42 AM - INFO - New connected socket [id: ABX3UXEq49ob50fxAAAB]
+8/3/2022, 9:38:10 AM - INFO - Server is running on port: 3030
+8/3/2022, 9:38:11 AM - INFO - New connected socket [id: 9iZzajgZtlH8GiExAAAB]
+8/3/2022, 9:38:31 AM - DEBUG - auth.service - login with username: yoavdan.m@gmail.com
+8/3/2022, 9:38:32 AM - INFO - User login:  | {"_id":"62ea17772009819e15e21835","username":"yoavDn","email":"yoavdan.m@gmail.com","fullname":"Yoav Mendelson","stations":[],"likedSongs":"62ea17772009819e15e21834"}
+8/3/2022, 9:38:32 AM - INFO - Setting socket.userId = 62ea17772009819e15e21835 for socket [id: 9iZzajgZtlH8GiExAAAB]

@@ -6,10 +6,9 @@ const logger = require('../../services/logger.service')
 
 const cryptr = new Cryptr(process.env.SECRET1 || 'Secret-Puk-1234')
 
-async function login(username, password) {
+async function login(username, password, email) {
     logger.debug(`auth.service - login with username: ${username}`)
-
-    const user = await userService.getByUsername(username)
+    const user = await userService.getByUsername(username, email)
     console.log(user);
     // if (!user) return Promise.reject('Invalid username or password')
     if (!user) throw new Error('Invalid username or password')
