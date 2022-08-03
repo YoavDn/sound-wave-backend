@@ -12511,3 +12511,17 @@
 8/3/2022, 9:52:25 PM - INFO - Setting socket.userId = null for socket [id: aXOrxvmV_5MLHKqnAAAJ]
 8/3/2022, 10:07:10 PM - INFO - Server is running on port: 3030
 8/3/2022, 10:07:11 PM - INFO - New connected socket [id: t5qi58J45-TdiL8KAAAB]
+8/3/2022, 10:16:20 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 10:16:20 PM - DEBUG - Getting Stations
+8/3/2022, 10:16:20 PM - INFO - New connected socket [id: Th-FA3aEJSzGmrcfAAAD]
+8/3/2022, 10:16:20 PM - DEBUG - auth.service - login with username: yoav
+8/3/2022, 10:16:21 PM - INFO - Setting socket.userId = null for socket [id: Th-FA3aEJSzGmrcfAAAD]
+8/3/2022, 10:16:22 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e536f05f458cd03d31fdea","62e03b3ce6341e2b4e64e4f4","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5"],"likedSongs":"62e42657f61d4f866077ddea"}
+8/3/2022, 10:17:58 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 10:17:58 PM - INFO - New connected socket [id: wd-Jq3MDQBS8nBbSAAAF]
+8/3/2022, 10:17:58 PM - DEBUG - Getting Stations
+8/3/2022, 10:17:58 PM - DEBUG - auth.service - login with username: yoav
+8/3/2022, 10:17:59 PM - INFO - Setting socket.userId = null for socket [id: wd-Jq3MDQBS8nBbSAAAF]
+8/3/2022, 10:17:59 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e536f05f458cd03d31fdea","62e03b3ce6341e2b4e64e4f4","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5"],"likedSongs":"62e42657f61d4f866077ddea"}
+8/3/2022, 10:18:46 PM - INFO - Server is running on port: 3030
+8/3/2022, 10:18:47 PM - INFO - New connected socket [id: -7vitT7uMgUd6PXmAAAB]
