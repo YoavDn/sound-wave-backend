@@ -12525,3 +12525,21 @@
 8/3/2022, 10:17:59 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e536f05f458cd03d31fdea","62e03b3ce6341e2b4e64e4f4","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5"],"likedSongs":"62e42657f61d4f866077ddea"}
 8/3/2022, 10:18:46 PM - INFO - Server is running on port: 3030
 8/3/2022, 10:18:47 PM - INFO - New connected socket [id: -7vitT7uMgUd6PXmAAAB]
+8/3/2022, 10:30:05 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 10:30:05 PM - INFO - New connected socket [id: 5408kx187abXMAl7AAAD]
+8/3/2022, 10:30:05 PM - DEBUG - Getting Stations
+8/3/2022, 10:30:05 PM - DEBUG - auth.service - login with username: yoav
+8/3/2022, 10:30:06 PM - INFO - Setting socket.userId = null for socket [id: 5408kx187abXMAl7AAAD]
+8/3/2022, 10:30:07 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e536f05f458cd03d31fdea","62e03b3ce6341e2b4e64e4f4","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5"],"likedSongs":"62e42657f61d4f866077ddea"}
+8/3/2022, 10:30:07 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 10:30:08 PM - INFO - New connected socket [id: KSnUAaSb26J76Yk4AAAF]
+8/3/2022, 10:30:08 PM - INFO - Setting socket.userId = null for socket [id: KSnUAaSb26J76Yk4AAAF]
+8/3/2022, 10:30:24 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 10:30:24 PM - INFO - New connected socket [id: OY9iPvkUtdZal6vtAAAH]
+8/3/2022, 10:30:24 PM - DEBUG - Getting Stations
+8/3/2022, 10:30:24 PM - DEBUG - auth.service - login with username: yoav
+8/3/2022, 10:30:25 PM - INFO - Setting socket.userId = null for socket [id: OY9iPvkUtdZal6vtAAAH]
+8/3/2022, 10:30:25 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e536f05f458cd03d31fdea","62e03b3ce6341e2b4e64e4f4","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5"],"likedSongs":"62e42657f61d4f866077ddea"}
+8/3/2022, 10:40:26 PM - INFO - Server is running on port: 3030
+8/3/2022, 10:40:26 PM - INFO - Server is running on port: 3030
+8/3/2022, 10:40:27 PM - INFO - New connected socket [id: kjRwvq3QRj71I4kOAAAB]
