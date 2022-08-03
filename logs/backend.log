@@ -12444,3 +12444,70 @@
 8/3/2022, 9:08:22 PM - INFO - Server is running on port: 3030
 8/3/2022, 9:08:22 PM - INFO - Server is running on port: 3030
 8/3/2022, 9:08:23 PM - INFO - New connected socket [id: TDR7p_m1yfOA_eB0AAAB]
+8/3/2022, 9:17:58 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:17:58 PM - DEBUG - Getting Stations
+8/3/2022, 9:17:58 PM - INFO - New connected socket [id: K_HSaE8WD5StXDkSAAAD]
+8/3/2022, 9:17:58 PM - ERROR - cannot find stations | {}
+8/3/2022, 9:17:58 PM - ERROR - Failed to get stations | {}
+8/3/2022, 9:17:58 PM - DEBUG - auth.service - login with username: yoav
+8/3/2022, 9:17:58 PM - ERROR - while finding user yoav | {}
+8/3/2022, 9:17:58 PM - ERROR - Failed to Login ReferenceError: logger is not defined
+8/3/2022, 9:17:58 PM - INFO - Setting socket.userId = null for socket [id: K_HSaE8WD5StXDkSAAAD]
+8/3/2022, 9:18:11 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:18:11 PM - DEBUG - Getting Stations
+8/3/2022, 9:18:11 PM - ERROR - cannot find stations | {}
+8/3/2022, 9:18:11 PM - ERROR - Failed to get stations | {}
+8/3/2022, 9:18:11 PM - INFO - New connected socket [id: rgpP2lYAMMO63t5wAAAF]
+8/3/2022, 9:18:11 PM - DEBUG - auth.service - login with username: yoav
+8/3/2022, 9:18:11 PM - ERROR - while finding user yoav | {}
+8/3/2022, 9:18:11 PM - ERROR - Failed to Login ReferenceError: logger is not defined
+8/3/2022, 9:18:11 PM - INFO - Setting socket.userId = null for socket [id: rgpP2lYAMMO63t5wAAAF]
+8/3/2022, 9:19:42 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:19:42 PM - INFO - New connected socket [id: kEt97VCm990LgDMAAAAH]
+8/3/2022, 9:19:42 PM - DEBUG - Getting Stations
+8/3/2022, 9:19:42 PM - DEBUG - auth.service - login with username: yoav
+8/3/2022, 9:19:42 PM - INFO - Setting socket.userId = null for socket [id: kEt97VCm990LgDMAAAAH]
+8/3/2022, 9:19:44 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e536f05f458cd03d31fdea","62e03b3ce6341e2b4e64e4f4","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5"],"likedSongs":"62e42657f61d4f866077ddea"}
+8/3/2022, 9:31:03 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:31:04 PM - DEBUG - Getting Stations
+8/3/2022, 9:31:04 PM - INFO - New connected socket [id: cA6zxzJzIrQsGEFRAAAJ]
+8/3/2022, 9:31:04 PM - DEBUG - auth.service - login with username: yoav
+8/3/2022, 9:31:04 PM - INFO - Setting socket.userId = null for socket [id: cA6zxzJzIrQsGEFRAAAJ]
+8/3/2022, 9:31:29 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e536f05f458cd03d31fdea","62e03b3ce6341e2b4e64e4f4","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5"],"likedSongs":"62e42657f61d4f866077ddea"}
+8/3/2022, 9:36:50 PM - INFO - Server is running on port: 3030
+8/3/2022, 9:36:55 PM - INFO - New connected socket [id: JpJBn1jKSnUAnPC3AAAB]
+8/3/2022, 9:37:08 PM - DEBUG - Getting Stations
+8/3/2022, 9:37:08 PM - INFO - New connected socket [id: xcP_qnQW9370pru_AAAD]
+8/3/2022, 9:37:09 PM - INFO - Setting socket.userId = null for socket [id: xcP_qnQW9370pru_AAAD]
+8/3/2022, 9:38:07 PM - INFO - Server is running on port: 3030
+8/3/2022, 9:38:08 PM - INFO - New connected socket [id: Rkhr_rA1q7HigI8qAAAB]
+8/3/2022, 9:38:11 PM - INFO - New connected socket [id: FUXfQ3zrjZW7sM_bAAAD]
+8/3/2022, 9:38:48 PM - DEBUG - Getting Stations
+8/3/2022, 9:38:48 PM - INFO - New connected socket [id: RwbmfTdOG5dBVMypAAAF]
+8/3/2022, 9:38:49 PM - INFO - Setting socket.userId = null for socket [id: RwbmfTdOG5dBVMypAAAF]
+8/3/2022, 9:38:54 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:38:54 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:40:31 PM - INFO - Server is running on port: 3030
+8/3/2022, 9:40:33 PM - INFO - New connected socket [id: 0-F1ZtIL0_CF88nGAAAB]
+8/3/2022, 9:43:46 PM - DEBUG - Getting Stations
+8/3/2022, 9:43:46 PM - INFO - New connected socket [id: sL9R4hkxjh83BIWqAAAD]
+8/3/2022, 9:43:47 PM - INFO - Setting socket.userId = null for socket [id: sL9R4hkxjh83BIWqAAAD]
+8/3/2022, 9:44:06 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:44:07 PM - DEBUG - Getting Stations
+8/3/2022, 9:44:07 PM - INFO - New connected socket [id: PM481Qj1SBkmWv6cAAAF]
+8/3/2022, 9:44:07 PM - DEBUG - Getting Stations
+8/3/2022, 9:44:07 PM - INFO - New connected socket [id: WkTXw-WzMpWcg7pRAAAH]
+8/3/2022, 9:44:07 PM - DEBUG - auth.service - login with username: yoav
+8/3/2022, 9:44:07 PM - INFO - Setting socket.userId = null for socket [id: PM481Qj1SBkmWv6cAAAF]
+8/3/2022, 9:44:08 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e536f05f458cd03d31fdea","62e03b3ce6341e2b4e64e4f4","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5"],"likedSongs":"62e42657f61d4f866077ddea"}
+8/3/2022, 9:44:08 PM - INFO - Setting socket.userId = null for socket [id: WkTXw-WzMpWcg7pRAAAH]
+8/3/2022, 9:44:10 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:44:11 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:52:25 PM - INFO - Socket disconnected [id: undefined]
+8/3/2022, 9:52:25 PM - DEBUG - Getting Stations
+8/3/2022, 9:52:25 PM - INFO - New connected socket [id: aXOrxvmV_5MLHKqnAAAJ]
+8/3/2022, 9:52:25 PM - DEBUG - auth.service - login with username: yoav
+8/3/2022, 9:52:25 PM - INFO - User login:  | {"_id":"62e42657f61d4f866077ddeb","username":"yoav","fullname":"‪yoav mendelson‬‏","stations":["62e536f05f458cd03d31fdea","62e03b3ce6341e2b4e64e4f4","62e280af70df710fcf0cbd6c","62e03b3ce6341e2b4e64e4f5"],"likedSongs":"62e42657f61d4f866077ddea"}
+8/3/2022, 9:52:25 PM - INFO - Setting socket.userId = null for socket [id: aXOrxvmV_5MLHKqnAAAJ]
+8/3/2022, 10:07:10 PM - INFO - Server is running on port: 3030
+8/3/2022, 10:07:11 PM - INFO - New connected socket [id: t5qi58J45-TdiL8KAAAB]
