@@ -12543,3 +12543,10 @@
 8/3/2022, 10:40:26 PM - INFO - Server is running on port: 3030
 8/3/2022, 10:40:26 PM - INFO - Server is running on port: 3030
 8/3/2022, 10:40:27 PM - INFO - New connected socket [id: kjRwvq3QRj71I4kOAAAB]
+8/6/2022, 7:52:33 PM - INFO - Server is running on port: 3030
+8/6/2022, 7:52:43 PM - DEBUG - Getting Stations
+8/6/2022, 7:52:43 PM - INFO - New connected socket [id: n06OF9peLZeT1XwDAAAB]
+8/6/2022, 7:52:43 PM - INFO - Setting socket.userId = null for socket [id: n06OF9peLZeT1XwDAAAB]
+8/6/2022, 8:06:15 PM - INFO - Server is running on port: 3030
+8/6/2022, 8:06:16 PM - INFO - Server is running on port: 3030
+8/6/2022, 8:06:17 PM - INFO - New connected socket [id: krUg1Q1fZakJvilCAAAB]
