@@ -12741,3 +12741,11 @@
 8/9/2022, 4:01:28 PM - INFO - Server is running on port: 3030
 8/9/2022, 4:01:28 PM - INFO - New connected socket [id: K5hp8MBu-Auo1yCqAAAB]
 8/9/2022, 4:01:30 PM - INFO - New connected socket [id: aZ8S1qWNoYrpgSiHAAAD]
+8/9/2022, 4:12:03 PM - DEBUG - Getting Stations
+8/9/2022, 4:12:03 PM - INFO - New connected socket [id: dElx8oMQRzadKL_YAAAF]
+8/9/2022, 4:12:04 PM - INFO - Setting socket.userId = null for socket [id: dElx8oMQRzadKL_YAAAF]
+8/9/2022, 4:12:05 PM - INFO - Socket disconnected [id: undefined]
+8/9/2022, 4:15:44 PM - INFO - Server is running on port: 3030
+8/9/2022, 4:15:44 PM - INFO - Server is running on port: 3030
+8/9/2022, 4:15:45 PM - INFO - New connected socket [id: LuEt0TBiQTmEcqLXAAAB]
+8/9/2022, 4:15:47 PM - INFO - New connected socket [id: YnPlanOG-7Vt_CMxAAAD]
