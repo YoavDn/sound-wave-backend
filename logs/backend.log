@@ -13577,3 +13577,18 @@
 8/9/2022, 8:20:26 PM - INFO - New connected socket [id: DWYrJC8KP3vJDkjUAAAL]
 8/9/2022, 8:20:26 PM - INFO - New connected socket [id: TsQ_Qzdezwo-SXiqAAAM]
 8/9/2022, 8:20:26 PM - INFO - New connected socket [id: 0ENV1M3TIKEctyG6AAAN]
+8/9/2022, 8:23:07 PM - INFO - Socket disconnected [id: undefined]
+8/9/2022, 8:23:07 PM - DEBUG - Getting Stations
+8/9/2022, 8:23:07 PM - INFO - New connected socket [id: YvzMYOJ0wLLQ1sxHAAAP]
+8/9/2022, 8:23:07 PM - DEBUG - auth.service - login with username: soundwave
+8/9/2022, 8:23:08 PM - INFO - Setting socket.userId = null for socket [id: YvzMYOJ0wLLQ1sxHAAAP]
+8/9/2022, 8:23:09 PM - INFO - User login:  | {"_id":"62e5543530f7945626c02719","username":"soundwave","fullname":"SoundWave","stations":["62f294ab7c6664440eadb022","62eab1cd5a8f181270ad2cb5","62e253fa182a33ed054ba9fb","62e92df851c1ef91491f7bc7","62e03b3ce6341e2b4e64e4f4","62e66210bb6c22b1ce9491e5","62e65ffdbb6c22b1ce9491e4","62e5618685df289a23be3e30","62e03b3ce6341e2b4e64e4f1","62e55a58385e954aef9b2cf4","62e5595b385e954aef9b2cf3","62e557bc30f7945626c0271b","62e5544f30f7945626c0271a"],"likedSongs":"62e5543530f7945626c02718"}
+8/9/2022, 8:28:27 PM - INFO - Server is running on port: 3030
+8/9/2022, 8:28:28 PM - INFO - Server is running on port: 3030
+8/9/2022, 8:28:28 PM - INFO - New connected socket [id: VbMnr3k9pPnJvAyJAAAB]
+8/9/2022, 8:28:28 PM - INFO - New connected socket [id: PjaM_eWVXNy1KIc8AAAD]
+8/9/2022, 8:28:28 PM - INFO - New connected socket [id: FEcuTS-lnV1gT7M6AAAF]
+8/9/2022, 8:28:28 PM - INFO - New connected socket [id: dm0og-LRSpTidi1TAAAH]
+8/9/2022, 8:28:29 PM - INFO - New connected socket [id: 0AM2zFfFGIYBpt0oAAAJ]
+8/9/2022, 8:28:30 PM - INFO - New connected socket [id: Dfn-l4_y8yd6qmfcAAAL]
+8/9/2022, 8:28:30 PM - INFO - New connected socket [id: iQJoypm9JA2VJCa1AAAN]
