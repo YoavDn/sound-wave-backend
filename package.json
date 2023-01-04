@@ -8,6 +8,7 @@
     "start:dev": "export NODE_ENV=development && nodemon server.js",
     "start:win": "set NODE_ENV=development && nodemon server.js",
     "start:prod": "export NODE_ENV=production && node server.js",
+    "start": "export NODE_ENV=production && node server.js",
     "start:prodset": "set NODE_ENV=production && node server.js"
   },
   "author": "Yoav",
